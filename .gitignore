@@ -1,3 +1,7 @@
 venv
 
-Dataset/data
+Dataset/data/*
+
+!Dataset/data/wav
+!Dataset/data/wav/**
+!Dataset/mp4/
