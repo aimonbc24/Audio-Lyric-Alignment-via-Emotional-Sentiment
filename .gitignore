@@ -1,4 +1,6 @@
 venv
+.env
+
 
 Dataset/data/*
 
