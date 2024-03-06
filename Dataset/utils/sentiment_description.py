@@ -1,5 +1,7 @@
 import os
+import json
 from openai import OpenAI
+from tqdm import tqdm
 
 
 class DescriptionGenerator:
@@ -42,3 +44,28 @@ class DescriptionGenerator:
         )
         response = response.choices[0].message.content
         return response
+
+
+def create_segment_descriptions(debug=False):
+    gen = DescriptionGenerator()
+
+    with open('../data/segments.json', 'r') as f:
+        segments = json.load(f)
+
+        if debug:
+            segments = segments[0:5]
+
+        loop = tqdm(segments)
+        for segment in loop:
+            sentiment = gen.generate(segment['line'])
+            segment['sentiment'] = sentiment
+            loop.update(1)
+
+
+    with open('../data/segments_with_descriptions.json', 'w') as f:
+        if debug:
+            json.dump(segments, f, indent=4)
+        else:
+            json.dump(segments, f)
+
+    
