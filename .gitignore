@@ -11,4 +11,4 @@ Dataset/data/*
 .conda
 
 # ignore pycache anywhere in the repo
-__pycache__/
+**/*.pyc
