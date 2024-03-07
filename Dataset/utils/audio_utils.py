@@ -4,6 +4,7 @@ from torchaudio.transforms import Spectrogram
 import subprocess
 import os
 import numpy as np
+import matplotlib.pyplot as plt
 
 def mp4_to_wav(input_file, output_file):
     with open(os.devnull, 'w') as FNULL:
