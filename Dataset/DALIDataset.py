@@ -23,7 +23,17 @@ class DALIDataset(Dataset):
 
         # read in the segments.json file
         with open(os.path.join(self.absolute_path, "data", "segments.json"), "r") as f:
-            self.items = json.load(f)
+            self.items = json.load(f) # stored as a list of dictionaries
+        
+        # get the names of the mp4 files
+        mp4_folder = os.path.join(self.absolute_path, r"data\mp4")
+        mp4_files = os.listdir(mp4_folder)
+
+        # remove the .mp4 extension
+        mp4_files = [file.split(".")[0] for file in mp4_files]
+
+        # filter items to only include those with mp4 files
+        self.items = [item for item in self.items if item['youtube'] in mp4_files]
         
     def __len__(self):
         return len(self.items)
@@ -36,26 +46,20 @@ class DALIDataset(Dataset):
 
         mp4_folder = os.path.join(self.absolute_path, "data")
 
-        # download mp4
-        yt.streams.filter(only_audio=True).first().download(output_path=mp4_folder, filename=f"{idx}.mp4")
-
         mp4_file = os.path.join(mp4_folder, f"{idx}.mp4")
-        wav_file = os.path.join(self.absolute_path, "data", f"{idx}.wav")
+        #wav_file = os.path.join(self.absolute_path, "data", f"{idx}.wav")
 
         # convert mp4 to wav
-        mp4_to_wav(mp4_file, wav_file)
-
-        # remove mp4
-        os.remove(mp4_file)
+        #mp4_to_wav(mp4_file, wav_file)
 
         # load wav using librosa
-        y, sr = load_audio_segment(wav_file, item_dict['start_time'], item_dict['end_time'])
+        y, sr = load_audio_segment(mp4_file, item_dict['start_time'], item_dict['end_time'])
 
         # generate spectrogram
         spectrogram = generate_spectrogram(y, sr)
 
         # remove wav
-        os.remove(wav_file)
+        #os.remove(wav_file)
 
         # TODO: Get sentiment description
         sentiment_description = None

@@ -5,6 +5,13 @@ venv
 # ignore all subfolders of Dataset/data
 Dataset/data/*
 
+# keep Dataset/data/mp4 directory and contents
+!Dataset/data/mp4
+!Dataset/data/mp4/*
+
+# keep Dataset/data/broken_links.txt
+!Dataset/data/broken_links.txt
+
 # keep Dataset/data/segments.json
 !Dataset/data/segments.json
 
