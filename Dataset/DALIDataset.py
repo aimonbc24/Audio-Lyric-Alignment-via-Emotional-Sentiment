@@ -17,14 +17,16 @@ class DALIDataset(Dataset):
     Items are stored as Tuples:
         (line, sentiment_description, spectrogram)"""
 
-    def __init__(self):
+    def __init__(self, use_sentiment: bool = False):
         # get the absolute path of the current working directory
         self.absolute_path = os.path.dirname(os.path.abspath(__file__))
+        self.use_sentiment = use_sentiment
 
         # read in the segments.json file
-        with open(os.path.join(self.absolute_path, "data", "segments.json"), "r") as f:
+        with open(os.path.join(self.absolute_path, "data", "segments_filtered.json"), "r") as f:
             self.items = json.load(f) # stored as a list of dictionaries
         
+        '''
         # get the names of the mp4 files
         mp4_folder = os.path.join(self.absolute_path, r"data\mp4")
         mp4_files = os.listdir(mp4_folder)
@@ -34,6 +36,7 @@ class DALIDataset(Dataset):
 
         # filter items to only include those with mp4 files
         self.items = [item for item in self.items if item['youtube'] in mp4_files]
+        '''
         
     def __len__(self):
         return len(self.items)
@@ -44,7 +47,7 @@ class DALIDataset(Dataset):
 
         yt = YouTube(f"https://www.youtube.com/watch?v={item_dict['youtube']}")
 
-        mp4_folder = os.path.join(self.absolute_path, "data")
+        mp4_folder = os.path.join(self.absolute_path, r"data\mp4")
 
         mp4_file = os.path.join(mp4_folder, f"{idx}.mp4")
         #wav_file = os.path.join(self.absolute_path, "data", f"{idx}.wav")
@@ -61,14 +64,17 @@ class DALIDataset(Dataset):
         # remove wav
         #os.remove(wav_file)
 
-        # TODO: Get sentiment description
-        sentiment_description = None
-
-        output = (
-            item_dict['line'],
-            #sentiment_description,
-            spectrogram,
-        )
+        if self.use_sentiment:
+            output = (
+                item_dict['line'],
+                item_dict['sentiment'],
+                spectrogram,
+            )
+        else:
+            output = (
+                item_dict['line'],
+                spectrogram,
+            )
 
         return output
     
