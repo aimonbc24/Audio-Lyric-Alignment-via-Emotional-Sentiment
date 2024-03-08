@@ -14,6 +14,7 @@ Dataset/data/*
 
 # keep Dataset/data/segments.json
 !Dataset/data/segments.json
+!Dataset/data/segments_with_descriptions.json
 
 .conda
 
