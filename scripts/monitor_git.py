@@ -26,15 +26,13 @@ def monitor_folder(folder_path, n):
             git_command("push origin main")  # Adjust branch name as necessary
             
             prev_count = current_count
+            print("Git operations completed. There are now", current_count, "files in the folder.")
         
-        time.sleep(60)  # Check every 3 minutes seconds
+        time.sleep(15)  # Check every 3 minutes seconds
 
 if __name__ == "__main__":
     absolute_path = os.path.dirname(os.path.abspath(__file__))
     mp4_folder = os.path.join(absolute_path, r"..\Dataset\data\mp4")
-    
-    # print working directory
-    print(absolute_path)
 
-    n = 2  # Set the desired threshold for file count increase
+    n = 5  # Set the desired threshold for file count increase
     monitor_folder(mp4_folder, n)

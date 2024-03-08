@@ -15,6 +15,10 @@ Dataset/data/*
 # keep Dataset/data/segments.json
 !Dataset/data/segments.json
 
+# ignore all jupyter notebooks outside of the scripts directory
+**.ipynb
+!scripts/*.ipynb
+
 .conda
 
 # ignore pycache anywhere in the repo
