@@ -43,7 +43,7 @@ class DescriptionGenerator:
         response = self.client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-            {"role": "user", "content": f"Here's a paragraph of lyrics from a song: \"{lyrics}\" Generate a 2 sentence description of the sentiment of this paragraph? DO NOT make it conversational. Be turse. Start it with: The lyrics are..."},
+            {"role": "user", "content": f"Here's a line of lyrics from a song: \"{lyrics}\" Generate a 1 sentence description of the sentiment of this paragraph? DO NOT make it conversational. Be turse. Start it with: The lyrics are..."},
             ]
         )
         response = response.choices[0].message.content
