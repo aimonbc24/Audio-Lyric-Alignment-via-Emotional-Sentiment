@@ -1,245 +1,5 @@
 [
     {
-        "id": "e186227bb7474fa5a7738c9108f11972",
-        "artist": "Staind",
-        "title": "Tangled_Up_In_You",
-        "youtube": "NXG-ayocugI",
-        "line": "you're my world,. the shelter from the rain ",
-        "start_time": 29.542,
-        "end_time": 36.7045,
-        "sentiment": "The lyrics are expressing deep love and appreciation for someone who provides comfort and safety in times of difficulty. This person is described as the center of the singer's universe and a source of protection during hard times."
-    },
-    {
-        "id": "e186227bb7474fa5a7738c9108f11972",
-        "artist": "Staind",
-        "title": "Tangled_Up_In_You",
-        "youtube": "NXG-ayocugI",
-        "line": "that take away my pain ",
-        "start_time": 43.6795,
-        "end_time": 48.4045,
-        "sentiment": "The lyrics are about finding solace in activities or people that bring comfort and relief from emotional or physical suffering. It reflects a desire to escape or cope with pain through positive distractions or support systems."
-    },
-    {
-        "id": "e186227bb7474fa5a7738c9108f11972",
-        "artist": "Staind",
-        "title": "Tangled_Up_In_You",
-        "youtube": "NXG-ayocugI",
-        "line": "that helps me find my way ",
-        "start_time": 54.742,
-        "end_time": 60.104499999999994,
-        "sentiment": "The lyrics are about seeking guidance and direction in life through external sources. It emphasizes the importance of finding a path to follow and relying on help to navigate through challenges."
-    },
-    {
-        "id": "e186227bb7474fa5a7738c9108f11972",
-        "artist": "Staind",
-        "title": "Tangled_Up_In_You",
-        "youtube": "NXG-ayocugI",
-        "line": "when i have nothing to say ",
-        "start_time": 66.96699999999998,
-        "end_time": 71.80449999999999,
-        "sentiment": "The lyrics are reflective of a sense of emptiness and the struggle to find words to express oneself. They convey a feeling of being stuck in a moment of silence and uncertainty."
-    },
-    {
-        "id": "e186227bb7474fa5a7738c9108f11972",
-        "artist": "Staind",
-        "title": "Tangled_Up_In_You",
-        "youtube": "NXG-ayocugI",
-        "line": "where nothing else is true ",
-        "start_time": 79.0795,
-        "end_time": 83.7295,
-        "sentiment": "The lyrics are expressing a sense of disillusionment and a feeling of being distrusting in a world where reality seems to be false. It conveys a feeling of isolation and a yearning for something genuine in a world filled with deception."
-    },
-    {
-        "id": "e186227bb7474fa5a7738c9108f11972",
-        "artist": "Staind",
-        "title": "Tangled_Up_In_You",
-        "youtube": "NXG-ayocugI",
-        "line": "still tangled up in you ",
-        "start_time": 90.7045,
-        "end_time": 95.5045,
-        "sentiment": "The lyrics are expressing a feeling of being emotionally connected and intertwined with someone else. The use of the word \"tangled\" portrays a sense of being caught up in a complex and intimate relationship."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "sorry is all that you can say ",
-        "start_time": 13.238,
-        "end_time": 20.037999999999997,
-        "sentiment": "The lyrics are expressing regret and sorrow for past actions, acknowledging that an apology is the only thing left to offer. It portrays a sense of helplessness and acceptance of the consequences of one's actions."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "words don't come easily ",
-        "start_time": 26.437999999999995,
-        "end_time": 32.837999999999994,
-        "sentiment": "The lyrics are expressing the difficulty in expressing oneself or communicating effectively. It conveys a sense of struggle or frustration in finding the right words to convey thoughts or emotions."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "forgive me ",
-        "start_time": 38.03799999999999,
-        "end_time": 44.43799999999999,
-        "sentiment": "The lyrics are expressing a sense of remorse and seeking forgiveness for past mistakes. The speaker is acknowledging their wrongdoing and asking for understanding and reconciliation."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "years gone by and still ",
-        "start_time": 50.43799999999999,
-        "end_time": 56.83799999999999,
-        "sentiment": "The lyrics are reflective on the passage of time and the feeling of being stuck in a place of stagnation. It conveys a sense of longing for change and growth despite the years that have passed."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "like forgive me ",
-        "start_time": 63.237999999999985,
-        "end_time": 66.43799999999999,
-        "sentiment": "The lyrics are filled with remorse and a plea for forgiveness for past wrongdoings. The singer is expressing their regret and asking for absolution for their mistakes."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "baby can i hold you tonight ",
-        "start_time": 74.83799999999998,
-        "end_time": 80.83799999999998,
-        "sentiment": "The lyrics are expressing a longing for emotional connection and comfort through physical touch. It captures a desire for intimacy and a sense of vulnerability."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "and remind me who i really am please remind me who i really am ",
-        "start_time": 57.10765546218487,
-        "end_time": 66.93958823529411,
-        "sentiment": "The lyrics are about feeling lost and needing someone to remind the singer of their true self and identity. The repetition emphasizes the urgency and importance of this reminder."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "do you love me? can you love mine? nobody's a picture perfect but we're worth it ",
-        "start_time": 70.40597478991596,
-        "end_time": 80.0488319327731,
-        "sentiment": "The lyrics are questioning the depth of love and loyalty in a relationship, while also acknowledging imperfections and expressing mutual value and worthiness."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "will you love me? even with my dark side? ",
-        "start_time": 82.38076470588234,
-        "end_time": 89.94378991596638,
-        "sentiment": "The lyrics are questioning if someone will still love the speaker despite their flaws and imperfections. The sentiment suggests vulnerability and uncertainty in wanting to be accepted for all aspects of themselves."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "from black dust it's hard to know what can become ",
-        "start_time": 93.97740336134453,
-        "end_time": 101.9816050420168,
-        "sentiment": "The lyrics are introspective and contemplative, exploring the uncertainty of potential transformation from difficult circumstances. The imagery of black dust conveys a sense of ambiguity and mystery surrounding the future possibilities that may arise."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "so don't give up on me please remind me who i really am ",
-        "start_time": 105.57404201680671,
-        "end_time": 115.09084873949578,
-        "sentiment": "The lyrics are pleading for someone not to abandon them and to help them remember their true identity. The sentiment of the paragraph is a desperate plea for support and reassurance in a time of vulnerability."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "do you love me? can you love mine? nobody's a picture perfect but we're worth it ",
-        "start_time": 118.80933613445377,
-        "end_time": 128.45219327731093,
-        "sentiment": "The lyrics are questioning the depth of affection and asking for validation. They emphasize that imperfections make individuals valuable in a relationship."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "will you love me? even with my dark side? ",
-        "start_time": 130.78412605042016,
-        "end_time": 139.98580672268906,
-        "sentiment": "The lyrics are questioning if someone will still love them despite their flaws and imperfections. It conveys a sense of vulnerability and insecurity in seeking acceptance from the person they love."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "don't run away just tell me that you will stay promise me you will ",
-        "start_time": 142.1286638655462,
-        "end_time": 151.58244537815125,
-        "sentiment": "The lyrics are expressing a desire for commitment and reassurance from a loved one. The singer is urging the listener to stay and promise to not run away."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "don't run away don't run away just promise me you will stay ",
-        "start_time": 156.24631092436974,
-        "end_time": 165.7631176470588,
-        "sentiment": "The lyrics are pleading for someone to not leave and to make a commitment to stay. The singer is expressing a heartfelt desire for the person to remain by their side."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "will you love me? uh ",
-        "start_time": 171.05723529411765,
-        "end_time": 180.13286554621848,
-        "sentiment": "The lyrics are questioning and unsure, wondering if the person they are speaking to will love them. The lyrics express feelings of doubt and vulnerability, seeking affirmation of love from the other person."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "do you love me? can you love mine? nobody's a picture perfect but we're worth it ",
-        "start_time": 183.34715126050418,
-        "end_time": 192.99000840336134,
-        "sentiment": "The lyrics are questioning the depth of someone's love and emphasizing that imperfections are a part of every relationship, but it is still valuable and worthwhile. The sentiment expressed is one of seeking reassurance and acceptance in a relationship despite flaws."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "will you love me? even with my dark side? ",
-        "start_time": 195.32194117647057,
-        "end_time": 202.31773949579832,
-        "sentiment": "The lyrics are questioning if someone will still love the singer despite their flaws and imperfections. It conveys a sense of vulnerability and insecurity about being accepted for who they really are."
-    },
-    {
         "id": "298f9fea64d045249b9a6fe07838124f",
         "artist": "Three_Days_Grace",
         "title": "Get_Out_Alive",
@@ -247,7 +7,7 @@
         "line": "then he said if you want to get out alive oh oh run for your life ",
         "start_time": 41.53999999999999,
         "end_time": 49.08999999999999,
-        "sentiment": "The lyrics are warning the listener to flee in order to survive, conveying a sense of urgency and danger. The message is clear and straightforward, emphasizing the importance of escaping quickly."
+        "sentiment": "The lyrics are warning someone to flee quickly in order to survive."
     },
     {
         "id": "298f9fea64d045249b9a6fe07838124f",
@@ -257,7 +17,7 @@
         "line": "oh oh run for your life ",
         "start_time": 52.98999999999999,
         "end_time": 57.889999999999986,
-        "sentiment": "The lyrics are expressing a sense of urgency and fear, urging the listener to flee for their safety. The repetition of \"oh oh\" adds a frantic and desperate tone to the message."
+        "sentiment": "The lyrics are conveying a sense of urgency and danger, suggesting the need to escape or flee quickly."
     },
     {
         "id": "298f9fea64d045249b9a6fe07838124f",
@@ -267,7 +27,7 @@
         "line": "she said as she faded away it's hard to imagine ",
         "start_time": 70.43999999999998,
         "end_time": 77.98999999999998,
-        "sentiment": "The lyrics are reflective of a sense of loss and difficulty accepting a reality that is hard to comprehend. The fading away of the speaker symbolizes a feeling of disappearance and emotional distance."
+        "sentiment": "The lyrics are reflective on the difficulty of accepting the departure of a loved one."
     },
     {
         "id": "298f9fea64d045249b9a6fe07838124f",
@@ -277,7 +37,7 @@
         "line": "then she said if you want to get out alive oh oh run for your life ",
         "start_time": 82.13999999999999,
         "end_time": 90.08999999999997,
-        "sentiment": "The lyrics are warning the listener to escape a dangerous situation in order to survive. They convey a sense of urgency and fear for one's life."
+        "sentiment": "The lyrics are warning the listener to flee in order to survive."
     },
     {
         "id": "298f9fea64d045249b9a6fe07838124f",
@@ -287,7 +47,7 @@
         "line": "oh oh run for your life if you want to get out alive ",
         "start_time": 93.58999999999997,
         "end_time": 102.03999999999996,
-        "sentiment": "The lyrics are about urging someone to flee for their life in order to survive. It conveys a sense of urgency and impending danger."
+        "sentiment": "The lyrics are urging someone to flee for their life in order to survive."
     },
     {
         "id": "298f9fea64d045249b9a6fe07838124f",
@@ -297,7 +57,7 @@
         "line": "if you want to get out alive oh oh run for your life ",
         "start_time": 106.23999999999998,
         "end_time": 115.43999999999997,
-        "sentiment": "The lyrics are warning the listener to escape to safety as quickly as possible. They convey a sense of urgency and danger, urging immediate action to avoid harm."
+        "sentiment": "The lyrics are warning of the importance of fleeing for survival."
     },
     {
         "id": "298f9fea64d045249b9a6fe07838124f",
@@ -307,7 +67,7 @@
         "line": "till i'm burning on the inside if i go i can only hope ",
         "start_time": 120.18999999999997,
         "end_time": 128.43999999999997,
-        "sentiment": "The lyrics are expressing a feeling of intense inner turmoil and emotional distress. The singer's only hope is to leave the situation behind in order to find peace."
+        "sentiment": "The lyrics are expressing a feeling of intense inner turmoil and a sense of uncertain hope for the future."
     },
     {
         "id": "0d1dc75119924fcf8bcd9f28bb2e4ffc",
@@ -317,7 +77,7 @@
         "line": "ahhhh ",
         "start_time": 19.046,
         "end_time": 23.474118552810342,
-        "sentiment": "The lyrics are expressing a sense of relief or release, with the repeated word \"ahhhh\" suggesting a deep breath or cathartic moment. This simple sound conveys an emotional weight or intensity that is expressed through vocalization rather than words."
+        "sentiment": "The lyrics are expressing a feeling of longing or satisfaction."
     },
     {
         "id": "0d1dc75119924fcf8bcd9f28bb2e4ffc",
@@ -327,7 +87,7 @@
         "line": "ich bin ein echter taugenichts ein tagedieb ein tunichtgut ",
         "start_time": 31.625882252302112,
         "end_time": 39.97892406783072,
-        "sentiment": "The lyrics are expressing a sense of rebelliousness and non-conformity, with the speaker identifying themselves as a lazy troublemaker and day thief. The tone conveys a sense of defiance and a rejection of societal expectations."
+        "sentiment": "The lyrics are reflective of someone admitting to being lazy and unproductive."
     },
     {
         "id": "0d1dc75119924fcf8bcd9f28bb2e4ffc",
@@ -337,7 +97,7 @@
         "line": "ich habe einen kleinen hund der pinkelt mir die bude voll wenn ich ihn streicheln will dann beisst er. ",
         "start_time": 42.49490051829114,
         "end_time": 50.79762280481053,
-        "sentiment": "The lyrics are describing frustration and annoyance towards a small dog that pees in the house and bites when touched. It conveys a sense of exasperation and irritation towards the pet's behavior."
+        "sentiment": "The lyrics are describing frustration with a small dog that misbehaves when trying to pet it."
     },
     {
         "id": "0d1dc75119924fcf8bcd9f28bb2e4ffc",
@@ -347,7 +107,7 @@
         "line": "mein leben ist total daneben. ich habe nur noch einen wunsch: ",
         "start_time": 53.46455784229858,
         "end_time": 59.80481849745885,
-        "sentiment": "The lyrics are expressing feelings of dissatisfaction and despair with life, culminating in a desire for one final wish. It conveys a sense of hopelessness and bleakness in navigating through difficult circumstances."
+        "sentiment": "The lyrics are expressing feelings of despair and a single desire for something better in life."
     },
     {
         "id": "0d1dc75119924fcf8bcd9f28bb2e4ffc",
@@ -357,1327 +117,7 @@
         "line": "ja ich sag auf wiedersehen. ich will sterben, ich will sterben ",
         "start_time": 64.2832565792784,
         "end_time": 72.88789603985305,
-        "sentiment": "The lyrics are expressing a desire to die and saying goodbye. The sentiment is one of longing for death and finality."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "night is draggin' her feet ",
-        "start_time": 13.09675,
-        "end_time": 18.40925,
-        "sentiment": "The lyrics are describing the slow, lingering passage of time as night comes to an end. There is a sense of tiredness and longing for the day to arrive."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "alone in the heat i know ",
-        "start_time": 23.878000000000004,
-        "end_time": 33.56550000000001,
-        "sentiment": "The lyrics are reflective of a sense of isolation and discomfort in a challenging environment. The speaker is acknowledging their solitude and battling through difficult circumstances alone."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "do you have to go home no is a word i can't say ",
-        "start_time": 39.659250000000014,
-        "end_time": 48.253000000000014,
-        "sentiment": "The lyrics are expressing a desire to prolong a moment and avoid saying goodbye. The speaker struggles to let the other person go home, reflecting reluctance to part ways."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "to tell you no and it get's me nowhere to make you go will a little more love ",
-        "start_time": 51.378000000000014,
-        "end_time": 60.440500000000014,
-        "sentiment": "The lyrics are expressing frustration at being unable to get through to someone and realizing that more love may be needed to make things work. The speaker is struggling with communication and seeking a solution through increased affection."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "will a little more love bring a happy ending will a little more love make it right ",
-        "start_time": 63.40925000000002,
-        "end_time": 71.53425000000001,
-        "sentiment": "The lyrics are reflective on the power of love to bring about a positive outcome and make things right in a challenging situation. It conveys a sense of hope and optimism for a better future through the power of love."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "where, where did my innocence go ",
-        "start_time": 77.62800000000003,
-        "end_time": 85.90925000000003,
-        "sentiment": " The lyrics are reflective and nostalgic, expressing a longing for a lost sense of purity and naivety. The speaker is questioning and lamenting the disappearance of their innocence."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "i'm trapped ",
-        "start_time": 95.75300000000003,
-        "end_time": 101.22175000000003,
-        "sentiment": "The lyrics are conveying a feeling of entrapment and helplessness in a difficult situation. The speaker is expressing a sense of being stuck and unable to escape their circumstances."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "in the warmth of your arms in the web of your lies ",
-        "start_time": 107.15925000000003,
-        "end_time": 116.06550000000004,
-        "sentiment": "The lyrics are exploring the conflicting emotions of seeking comfort in a relationship while also recognizing the deceit and falsehood within it. The imagery of being held in someone's arms juxtaposed with being ensnared in their lies conveys a sense of both safety and manipulation."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "to tell you know and it get's me nowhere to make you go will a little more love ",
-        "start_time": 118.72175000000004,
-        "end_time": 127.94050000000004,
-        "sentiment": "The lyrics are expressing frustration and futility in attempting to convey a message of love. The singer feels hopeless in trying to make their feelings known and receive love in return."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "will a little more love bring a happy ending will a little more love make it right ",
-        "start_time": 130.75300000000004,
-        "end_time": 139.03425000000004,
-        "sentiment": "The lyrics are expressing hope that an increase in love will lead to a positive outcome. The singer is questioning whether more love can fix their current situation."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "it get's me nowhere to tell you know and it get's me nowhere to make you go ",
-        "start_time": 145.59675000000004,
-        "end_time": 154.50300000000004,
-        "sentiment": "The lyrics are expressing a sense of frustration with trying to communicate feelings to someone who is unwilling to listen or understand. The speaker feels like they are making no progress in their attempt to connect with the other person."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "make you stop depending will a little more love bring a happy ending ",
-        "start_time": 157.00300000000004,
-        "end_time": 164.50300000000004,
-        "sentiment": "The lyrics are reflective of someone contemplating the idea of love as a solution to their problems, questioning if it can lead to a positive outcome in the end. The lyrics suggest a desire for independence and happiness through the power of love."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "but my heart it dont beat it dont beat the way it used to. and my eyes ",
-        "start_time": 44.39867022411951,
-        "end_time": 52.723109925293464,
-        "sentiment": "The lyrics are expressing a sense of sadness and loss, as the speaker reflects on how their heart no longer beats the same and their eyes may no longer see in the same way. The emotional tone is introspective and nostalgic."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "and my lips they dont kiss they dont kiss the way they used to ",
-        "start_time": 56.88532977588044,
-        "end_time": 64.78287513340445,
-        "sentiment": "The lyrics are expressing a sense of longing and loss, as they reflect on a lack of intimacy and connection in a past relationship. The singer's lips no longer possess the same passion and familiarity they once had, highlighting the emotional distance between them and their partner."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "for reasons unknown; ",
-        "start_time": 70.54594877267873,
-        "end_time": 75.02833938100316,
-        "sentiment": "The lyrics are expressing confusion and uncertainty about the reasons behind certain actions or events. The singer is grappling with the feeling of not knowing the cause behind something significant."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "there was an open chair. ",
-        "start_time": 81.85864887940231,
-        "end_time": 88.68895837780144,
-        "sentiment": "The lyrics are reflective of empty spaces and past memories. They convey a sense of longing and loss through the imagery of an unoccupied chair."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "the open chair. i said if destiny's kind ",
-        "start_time": 91.99738954108854,
-        "end_time": 98.50752828175021,
-        "sentiment": "The lyrics are reflective and melancholic, expressing a sense of emptiness and contemplation about fate and the uncertainties of life. The imagery of the open chair conveys a feeling of absence or loss."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "but my heart it dont beat it dont beat the way it used to. and my eyes ",
-        "start_time": 102.5630245464247,
-        "end_time": 110.78074066168618,
-        "sentiment": "The lyrics are expressing a sense of loss and change in one's emotional state, specifically regarding the heart and eyes. The mood is somber and reflective, suggesting a struggle with accepting the passage of time and the changes it brings."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "and my lips they dont kiss they don't kiss the way they used to ",
-        "start_time": 114.94296051227315,
-        "end_time": 122.73378228388468,
-        "sentiment": "The lyrics are expressing feelings of disappointment and longing for past intimacy, highlighting a lack of connection and pleasure in current interactions. The singer reminisces on the quality of previous kisses and the loss of that special connection."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "for reasons unknown; ",
-        "start_time": 128.9237502668089,
-        "end_time": 133.08597011739587,
-        "sentiment": "The lyrics are expressing feelings of confusion and uncertainty surrounding events or circumstances that are difficult to understand or explain, creating a sense of mystery and intrigue. The mention of \"reasons unknown\" suggests a desire for clarity and answers in a situation that continues to remain shrouded in ambiguity."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "i said my heart it don't beat ",
-        "start_time": 139.91627961579502,
-        "end_time": 146.74658911419417,
-        "sentiment": "The lyrics are expressing a feeling of emotional disconnection or numbness. It conveys a sense of emptiness and lack of vitality in the speaker's heart."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "and my eyes don't recognize you no more. ",
-        "start_time": 150.16174386339372,
-        "end_time": 157.09877694770537,
-        "sentiment": "The lyrics are expressing a sense of loss and disillusionment as the singer reflects on not being able to see someone in the same light as before. The imagery of not recognizing the person indicates a deep emotional disconnect and disappointment."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "they don't kiss the way they used to and my eyes don't recognize you ",
-        "start_time": 160.30048452507995,
-        "end_time": 167.45096478121656,
-        "sentiment": "The lyrics are reflecting on the changes in a relationship, highlighting the lack of intimacy and familiarity. The singer expresses a sense of loss and disconnection in the way they interact with their partner."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "for reasons unknown; for reasons unknown; ",
-        "start_time": 171.1862902881536,
-        "end_time": 180.89813660618987,
-        "sentiment": "The lyrics are expressing a sense of confusion and uncertainty about unknown motivations or reasons. The repetition suggests a lingering questioning and introspection."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "will a little more love make it right but it get's me nowhere ",
-        "start_time": 167.94050000000004,
-        "end_time": 176.22175000000004,
-        "sentiment": "The lyrics are questioning whether increasing love can fix the situation, but ultimately realizing that it won't bring any resolution. The singer acknowledges that despite their efforts, love alone cannot solve the problem at hand."
-    },
-    {
-        "id": "f0226382730a4d339283c0e2cfaad43b",
-        "artist": "Olivia_Newton_John",
-        "title": "A_Little_More_Love",
-        "youtube": "4RFK8Ft-GNQ",
-        "line": "and it get's me nowhere to make you go will a little more love make you stop depending ",
-        "start_time": 178.40925000000004,
-        "end_time": 188.25300000000004,
-        "sentiment": "The lyrics are about feeling helpless in trying to make someone leave, and questioning if showing more love will change their dependence on you. Overall, it expresses a sense of frustration and desperation in a relationship."
-    },
-    {
-        "id": "3d45ce1696a14969b02b462f52a46d26",
-        "artist": "Magtens_Korridorer",
-        "title": "Nordhavn_Station",
-        "youtube": "aJCOAZMn9pU",
-        "line": "carla korer natten hun er lige blevet atten og derude droner bilerne forbi dan er blevet tyve han har lige laert at lyve ved praecis hvad han skal sige ",
-        "start_time": 26.495179999999998,
-        "end_time": 35.848121176470585,
-        "sentiment": "The lyrics are reflective of the passage of time, with Carla turning eighteen and Dan turning twenty. They both seem to be navigating their way through adulthood, with Dan learning to lie and knowing exactly what to say."
-    },
-    {
-        "id": "3d45ce1696a14969b02b462f52a46d26",
-        "artist": "Magtens_Korridorer",
-        "title": "Nordhavn_Station",
-        "youtube": "aJCOAZMn9pU",
-        "line": "regnvade rude som en elskers hedeblik men der-er-edderradme mange der gar rundt og er for bange-og en dag sa slar den klik ",
-        "start_time": 38.3187094117647,
-        "end_time": 46.43635647058823,
-        "sentiment": "The lyrics are filled with a sense of longing and passion, as well as a hint of fear and uncertainty. The imagery of rain and lovers creates a vivid and emotional atmosphere, ultimately leading to a climactic moment of realization or madness."
-    },
-    {
-        "id": "3d45ce1696a14969b02b462f52a46d26",
-        "artist": "Magtens_Korridorer",
-        "title": "Nordhavn_Station",
-        "youtube": "aJCOAZMn9pU",
-        "line": "en sondag-i december ",
-        "start_time": 50.36282705882353,
-        "end_time": 56.67165058823528,
-        "sentiment": "The lyrics are reflective and melancholic, evoking feelings of sadness and longing. The mention of a Sunday in December suggests a specific moment in time that holds emotional weight and nostalgia."
-    },
-    {
-        "id": "3d45ce1696a14969b02b462f52a46d26",
-        "artist": "Magtens_Korridorer",
-        "title": "Nordhavn_Station",
-        "youtube": "aJCOAZMn9pU",
-        "line": "en sondag-i december krige uden tojler ",
-        "start_time": 60.906944705882346,
-        "end_time": 69.59812117647058,
-        "sentiment": "The lyrics are romantic and introspective, discussing a Sunday in December and the freedom to fight without constraints. The sentiment conveys a sense of longing and liberation in a time of conflict."
-    },
-    {
-        "id": "3d45ce1696a14969b02b462f52a46d26",
-        "artist": "Magtens_Korridorer",
-        "title": "Nordhavn_Station",
-        "youtube": "aJCOAZMn9pU",
-        "line": "kaerligheden den er forladt romeo-er junkie hende julie-er-en zombie deres dag er blevet til nat og sa-er der habet hvad med det? ",
-        "start_time": 71.18635647058822,
-        "end_time": 80.00988588235293,
-        "sentiment": "The lyrics are describing a sense of lost love and hopelessness, with references to Romeo as a junkie and Juliet as a zombie. The imagery of their day turning into night suggests a dark and desolate mood."
-    },
-    {
-        "id": "3d45ce1696a14969b02b462f52a46d26",
-        "artist": "Magtens_Korridorer",
-        "title": "Nordhavn_Station",
-        "youtube": "aJCOAZMn9pU",
-        "line": "nar der-er tarer pa din kind men der-er steder man kan gemme sig man ikke kan se derude fra nar tagen ruller ind ",
-        "start_time": 81.33341529411763,
-        "end_time": 88.70106235294116,
-        "sentiment": "The lyrics are reflective on finding places to hide from the world when tears are rolling down your cheeks, capturing the feeling of wanting to escape from view. In the midst of emotional turmoil, the desire for solace and seclusion is expressed through imagery of rolling fog."
-    },
-    {
-        "id": "3d45ce1696a14969b02b462f52a46d26",
-        "artist": "Magtens_Korridorer",
-        "title": "Nordhavn_Station",
-        "youtube": "aJCOAZMn9pU",
-        "line": "en sondag-i december ",
-        "start_time": 92.67165058823528,
-        "end_time": 98.58341529411763,
-        "sentiment": "The lyrics are melancholic and nostalgic, reflecting on a Sunday in December. The song evokes feelings of sadness and longing, capturing the emotions of a wistful winter day."
-    },
-    {
-        "id": "3d45ce1696a14969b02b462f52a46d26",
-        "artist": "Magtens_Korridorer",
-        "title": "Nordhavn_Station",
-        "youtube": "aJCOAZMn9pU",
-        "line": "en sondag-i december yeah ",
-        "start_time": 103.25988588235293,
-        "end_time": 110.58341529411763,
-        "sentiment": "The lyrics are nostalgic and evoke feelings of a December Sunday. The mention of December gives a sense of wistfulness or reflection on past memories."
-    },
-    {
-        "id": "3d45ce1696a14969b02b462f52a46d26",
-        "artist": "Magtens_Korridorer",
-        "title": "Nordhavn_Station",
-        "youtube": "aJCOAZMn9pU",
-        "line": "en sondag-i december ",
-        "start_time": 140.23047411764702,
-        "end_time": 146.40694470588232,
-        "sentiment": "The lyrics are contemplative and nostalgic, evoking feelings of solitude and reflection during a cold December Sunday. The imagery suggests a sense of melancholy and longing for the past."
-    },
-    {
-        "id": "3d45ce1696a14969b02b462f52a46d26",
-        "artist": "Magtens_Korridorer",
-        "title": "Nordhavn_Station",
-        "youtube": "aJCOAZMn9pU",
-        "line": "en sondag-i december ",
-        "start_time": 150.73047411764702,
-        "end_time": 156.99517999999998,
-        "sentiment": "The lyrics are reflective and melancholic, evoking feelings of nostalgia and longing. They capture the bittersweet emotions of a Sunday in December."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "sail across the sea of light circles and rings ",
-        "start_time": 63.277599404734815,
-        "end_time": 71.04537125441087,
-        "sentiment": "The lyrics are invoking a feeling of exploration and journeying through the unknown, symbolized by the imagery of sailing across a sea of light circles and rings. This metaphor suggests a sense of adventure and discovery in the pursuit of enlightenment or self-discovery."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "weaving a charm and a spell blessed by the night holy and bright ",
-        "start_time": 73.48231928568178,
-        "end_time": 83.07780215881102,
-        "sentiment": "The lyrics are evoking a sense of magic and reverence, highlighting the power of the night and its spiritual significance. The imagery of weaving a charm and a spell suggests a connection to the divine and the enchantment of the nighttime."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "bloodied angels fast desending moving on a never bending light ",
-        "start_time": 87.34246121353513,
-        "end_time": 96.1763978268922,
-        "sentiment": "The lyrics are dark and poetic, describing bloodied angels descending and moving forward in an unwavering light. This imagery conveys a sense of struggle, perseverance, and divine strength in the face of adversity."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "out of shadows, shining ever bright ",
-        "start_time": 100.59336613357074,
-        "end_time": 105.77188070002144,
-        "sentiment": "The lyrics are expressing a transformation or emergence from darkness into a radiant state, symbolizing hope and positivity. This imagery suggests overcoming obstacles and challenges to ultimately thrive and shine brightly."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "neon knights! all right! ",
-        "start_time": 111.255013770381,
-        "end_time": 118.71816711614818,
-        "sentiment": "The lyrics are expressing excitement and energy as the singer acknowledges the neon knights. This sentiment is aligned with a feeling of positivity and enthusiasm towards the knights."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "time again to save us from the jackals of the streets ",
-        "start_time": 165.93403522202217,
-        "end_time": 173.39718856778936,
-        "sentiment": "The lyrics are focused on the idea of someone or something saving people from dangerous threats in the streets. It conveys a sense of urgency and the need for protection from harm."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "captain's at the helm sail across the sea of light again and again ",
-        "start_time": 178.11877537837677,
-        "end_time": 188.01887675541485,
-        "sentiment": "The lyrics are using nautical imagery to convey the idea of embarking on a journey towards enlightenment and hope. It suggests a sense of endless exploration and continuous growth towards a brighter future."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "and again neon knights! neon knights! ",
-        "start_time": 190.30351553473133,
-        "end_time": 198.985142896134,
-        "sentiment": "The lyrics are expressing a feeling of excitement and energy, symbolizing the strength and power of the \"neon knights\". The repetition of \"neon knights\" emphasizes a sense of urgency and determination in the song."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "oh no ",
-        "start_time": 10.469,
-        "end_time": 17.590848739495797,
-        "sentiment": "The lyrics are expressing fear or worry about a negative situation. The speaker is lamenting a possible negative outcome."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "that i know it's not pretty there ",
-        "start_time": 20.805134453781513,
-        "end_time": 28.431184873949576,
-        "sentiment": "The lyrics are reflective of a sense of discomfort and acknowledgment of the harsh reality of a situation. The mention of knowing it's not pretty suggests a resignation to facing the truth, despite it being difficult to accept."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "if i show it to you now will it make you run away ",
-        "start_time": 32.969,
-        "end_time": 41.477403361344535,
-        "sentiment": "The lyrics are expressing fear of rejection and vulnerability, wondering if revealing true feelings will cause the person to distance themselves. The singer is questioning whether being open and honest will result in abandonment."
-    },
-    {
-        "id": "58ec921634164d11b13202c56d7451eb",
-        "artist": "Kelly_Clarkson",
-        "title": "Dark_Side",
-        "youtube": "RR-21ulMT2w",
-        "line": "even if it hurts even if i try to push you out ",
-        "start_time": 45.00681512605042,
-        "end_time": 53.57824369747899,
-        "sentiment": "The lyrics are about someone expressing their struggle to let go of someone they love, even though it may be painful to do so. The line suggests a struggle to detach oneself from a relationship despite the emotional difficulty."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "il sent son parfum sur lacorniche ",
-        "start_time": 181.2464498852333,
-        "end_time": 188.5341315990818,
-        "sentiment": "The lyrics are describing a feeling of nostalgia and remembrance, as the scent of someone's perfume brings back memories on the coastline. The imagery suggests a sense of longing and melancholy."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "la chryslers'envole dans les fougeres et les nenuphars ",
-        "start_time": 196.16611323641922,
-        "end_time": 203.5685615914307,
-        "sentiment": "The lyrics are poetic and evoke a sense of freedom and escapism as the Chrysler car soars among the ferns and water lilies. The imagery creates a dreamlike atmosphere, suggesting a desire for adventure and exploration."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "le paradis clair d'une chambre d'hopital ",
-        "start_time": 236.44920428462117,
-        "end_time": 243.7368859984697,
-        "sentiment": "The lyrics are describing the bright paradise of a hospital room. It conveys a sense of peace and tranquility in a potentially difficult situation."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "est un ange et ses yeuxsont verts comme elle luisourit ",
-        "start_time": 247.81110175975508,
-        "end_time": 255.0987834736036,
-        "sentiment": "The lyrics are describing someone as an angel with green eyes who smiles. The sentiment is one of admiration and awe towards this person's beauty and kindness."
-    },
-    {
-        "id": "baa8e0c3b77746ef8ccedf64a7009433",
-        "artist": "Entwine",
-        "title": "Losing_The_Ground",
-        "youtube": "PbVYg0EVpek",
-        "line": "you used my heart so, you killed me again ",
-        "start_time": 69.59,
-        "end_time": 74.1053521974714,
-        "sentiment": "The lyrics are expressing deep hurt and betrayal, as the speaker feels used and heartbroken by someone they trusted. The imagery of being \"killed\" again suggests that this person has caused immense emotional pain and suffering."
-    },
-    {
-        "id": "baa8e0c3b77746ef8ccedf64a7009433",
-        "artist": "Entwine",
-        "title": "Losing_The_Ground",
-        "youtube": "PbVYg0EVpek",
-        "line": "wicked as you are i think you could do it again ",
-        "start_time": 81.78145093317279,
-        "end_time": 88.78024683925346,
-        "sentiment": "The lyrics are expressing admiration for someone's ability to be wicked, implying they are capable of repeating their actions. This suggests a fascination with the individual's dark and devious nature."
-    },
-    {
-        "id": "baa8e0c3b77746ef8ccedf64a7009433",
-        "artist": "Entwine",
-        "title": "Losing_The_Ground",
-        "youtube": "PbVYg0EVpek",
-        "line": "with your lies ",
-        "start_time": 93.0698314268513,
-        "end_time": 96.23057796508128,
-        "sentiment": "The lyrics are expressing feelings of betrayal and deception, highlighting the pain and hurt caused by someone's lies. The artist is conveying a sense of disappointment and anger towards the person who has been dishonest."
-    },
-    {
-        "id": "b0cf5a07152f49fda6896cd26733ec4b",
-        "artist": "Muse",
-        "title": "In_Your_World",
-        "youtube": "lqmTQnW01qc",
-        "line": "i'm hurting you again to lonely to pretend ",
-        "start_time": 33.467,
-        "end_time": 40.83321994107024,
-        "sentiment": "The lyrics are expressing the feelings of causing pain to someone due to feeling too isolated to fake happiness. The sentiment conveyed is one of guilt and a sense of being unable to maintain a facade."
-    },
-    {
-        "id": "b0cf5a07152f49fda6896cd26733ec4b",
-        "artist": "Muse",
-        "title": "In_Your_World",
-        "youtube": "lqmTQnW01qc",
-        "line": "i promise you to blow it all away ",
-        "start_time": 44.635139910654885,
-        "end_time": 54.139939834616484,
-        "sentiment": "The lyrics are expressing a vow to eliminate everything completely. The promise is to eradicate all obstacles and start fresh."
-    },
-    {
-        "id": "b0cf5a07152f49fda6896cd26733ec4b",
-        "artist": "Muse",
-        "title": "In_Your_World",
-        "youtube": "lqmTQnW01qc",
-        "line": "no one is crying alone in your world- ",
-        "start_time": 65.30807974527137,
-        "end_time": 72.91191968444065,
-        "sentiment": "The lyrics are conveying a sense of comfort and reassurance, suggesting that in their world, no one is left to suffer in solitude. This message emphasizes the idea of companionship and support, indicating that individuals are always surrounded by caring individuals who are there to offer a listening ear or a helping hand."
-    },
-    {
-        "id": "298f9fea64d045249b9a6fe07838124f",
-        "artist": "Three_Days_Grace",
-        "title": "Get_Out_Alive",
-        "youtube": "g8M8OHWX8ng",
-        "line": "no time for goodbye he said as he faded away ",
-        "start_time": 18.29,
-        "end_time": 26.239999999999995,
-        "sentiment": "The lyrics are conveying a sense of sudden loss and finality, as the speaker is left with no opportunity to say goodbye to someone who has disappeared. The abrupt departure leaves the speaker feeling unresolved and unable to process the situation."
-    },
-    {
-        "id": "298f9fea64d045249b9a6fe07838124f",
-        "artist": "Three_Days_Grace",
-        "title": "Get_Out_Alive",
-        "youtube": "g8M8OHWX8ng",
-        "line": "they're bound to steal it away don't hide your mistakes ",
-        "start_time": 31.439999999999994,
-        "end_time": 37.38999999999999,
-        "sentiment": "The lyrics are cautioning against letting others take advantage of your vulnerabilities and urging you to embrace your flaws instead of concealing them. It highlights the importance of being authentic and standing up for oneself in the face of potential threats or deceit."
-    },
-    {
-        "id": "3d45ce1696a14969b02b462f52a46d26",
-        "artist": "Magtens_Korridorer",
-        "title": "Nordhavn_Station",
-        "youtube": "aJCOAZMn9pU",
-        "line": "en sondag-i december ",
-        "start_time": 161.31870941176467,
-        "end_time": 167.23047411764702,
-        "sentiment": "The lyrics are mysterious and evocative, capturing a sense of solitude and introspection. The mention of December adds a nostalgic and melancholic tone to the overall sentiment of the paragraph."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "comme elle est partie jim a les nerfs ",
-        "start_time": 30.729999999999997,
-        "end_time": 34.28776587605202,
-        "sentiment": "The lyrics are expressing feelings of frustration and distress after someone has left. The character Jim is portrayed as being on edge as a result."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "la presqu'ile le boulevard de la mer est con ",
-        "start_time": 41.57544758990053,
-        "end_time": 49.09266258607497,
-        "sentiment": "The lyrics are expressing a negative sentiment towards the peninsula and sea boulevard. This line suggests that the speaker does not hold a favorable opinion of these locations."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "attention jimmy tourne en rond ",
-        "start_time": 53.16687834736035,
-        "end_time": 56.6672609028309,
-        "sentiment": "The lyrics are describing someone named Jimmy who is feeling restless and anxious, as indicated by the phrase \"tourne en rond\" which translates to \"spinning in circles.\" This suggests a sense of inner turmoil and uncertainty in Jimmy's thoughts and actions."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "le serrait si fort en disant jim ",
-        "start_time": 63.89755929609792,
-        "end_time": 71.12785768936493,
-        "sentiment": "The lyrics are describing a tender moment where someone is holding onto Jim tightly, expressing a deep feeling of affection and intimacy. The sentiment conveyed is one of love and affection, highlighting the strong emotional connection between the two individuals."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "comme elle est partie attention jimmy tourne pas rond ",
-        "start_time": 78.47292272379494,
-        "end_time": 86.04752104055086,
-        "sentiment": "The lyrics are expressing concern for Jimmy's state of mind after a girl left him. The speaker is warning Jimmy to be careful because he is not acting like himself."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "sur le cuir de ta chrysler la bas le soleil s'ecroule dans la mer ",
-        "start_time": 92.24491966335117,
-        "end_time": 101.13933435348122,
-        "sentiment": "The lyrics are reflective of a peaceful and romantic moment, as the sun sets on the leather seats of a Chrysler by the sea. The imagery suggests a sense of serenity and tranquility."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "comme l'alcool et les revolvers c'est sauter en l'air tomber par terre ",
-        "start_time": 106.93504973221113,
-        "end_time": 114.68179801071153,
-        "sentiment": "The lyrics are describing a reckless and dangerous behavior, comparing it to alcohol and guns. The imagery of jumping into the air and falling to the ground suggests a lack of control and potential harm."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "pour que sa starlette bronze enhors bord ",
-        "start_time": 122.48592960979337,
-        "end_time": 129.88837796480485,
-        "sentiment": "The lyrics are describing a desire for a celebrity to tan outside the norm. This conveys a sense of admiration and longing for the star's glamorous lifestyle."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "comme elle estpar tie attention jimmy veut mou rir ",
-        "start_time": 137.29082631981632,
-        "end_time": 144.75065799540928,
-        "sentiment": "The lyrics are reflective of someone feeling ignored and unloved, to the point of wanting to die. It conveys a sense of despair and hopelessness in the face of unrequited love."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "sur le cuir de tachrys ler la bas le soleil s'ecroule dansla mer ",
-        "start_time": 151.234973221117,
-        "end_time": 159.72770466717668,
-        "sentiment": "The lyrics are poetic and evoke a sense of longing and melancholy as the sun sets over the sea. The imagery of the sun collapsing into the ocean conveys a feeling of sorrow and loss."
-    },
-    {
-        "id": "a312e4575d594bd7809440184c8b313a",
-        "artist": "Alain_Souchon",
-        "title": "La_Ballade_De_Jim",
-        "youtube": "lEUy2cGJwG0",
-        "line": "comme l'alcool et les revolvers c'est sauter en l'air tomber par terre ",
-        "start_time": 165.81033664881403,
-        "end_time": 173.38493496556995,
-        "sentiment": "The lyrics are reflective of a reckless and self-destructive behavior, comparing alcohol and firearms to jumping and falling. The imagery suggests a sense of danger and chaos."
-    },
-    {
-        "id": "751380b763374b2e902f77a7dec576af",
-        "artist": "Green_Day",
-        "title": "Castaway",
-        "youtube": "9mg-jwIIliU",
-        "line": "into desolation road where i'm a castaway goin' at it alone ",
-        "start_time": 103.33841819742489,
-        "end_time": 111.32125081545063,
-        "sentiment": "The lyrics are expressing feelings of isolation and loneliness as the speaker navigates through a desolate road on their own. The imagery evokes a sense of being abandoned or forgotten, highlighting the emotional struggle of being a castaway."
-    },
-    {
-        "id": "751380b763374b2e902f77a7dec576af",
-        "artist": "Green_Day",
-        "title": "Castaway",
-        "youtube": "9mg-jwIIliU",
-        "line": "now i'm on my own castaway goin' at it alone castaway now i'm on my own ",
-        "start_time": 113.63884738197423,
-        "end_time": 123.42425510729612,
-        "sentiment": "The lyrics are expressing feelings of loneliness and isolation, as the singer reveals that they are now going through life alone. The repetition of \"castaway\" underscores the sense of being lost and abandoned."
-    },
-    {
-        "id": "751380b763374b2e902f77a7dec576af",
-        "artist": "Green_Day",
-        "title": "Castaway",
-        "youtube": "9mg-jwIIliU",
-        "line": "castaway ",
-        "start_time": 127.8019375107296,
-        "end_time": 129.08949115879827,
-        "sentiment": "The lyrics are about feeling lost and lonely, like a castaway stranded on a deserted island. The singer is expressing a sense of isolation and longing for connection with others."
-    },
-    {
-        "id": "751380b763374b2e902f77a7dec576af",
-        "artist": "Green_Day",
-        "title": "Castaway",
-        "youtube": "9mg-jwIIliU",
-        "line": "into sight and sound of no return and no looking back or down a conscientious objector to the war that's in my mind ",
-        "start_time": 159.21824652360513,
-        "end_time": 168.74614351931328,
-        "sentiment": "The lyrics are reflective of a desire to move forward and leave behind any doubts or regrets, embodying a strong sense of determination and conviction in standing up against internal conflicts and battles. It conveys the idea of an individual choosing to remain true to their beliefs and principles despite facing challenges and obstacles."
-    },
-    {
-        "id": "751380b763374b2e902f77a7dec576af",
-        "artist": "Green_Day",
-        "title": "Castaway",
-        "youtube": "9mg-jwIIliU",
-        "line": "taking back what's mine i'm on a mission into destination unknown ",
-        "start_time": 171.57876154506437,
-        "end_time": 178.53155124463518,
-        "sentiment": "The lyrics are about reclaiming ownership and embarking on a journey into the unknown. The singer is focused and determined to take back what belongs to them."
-    },
-    {
-        "id": "751380b763374b2e902f77a7dec576af",
-        "artist": "Green_Day",
-        "title": "Castaway",
-        "youtube": "9mg-jwIIliU",
-        "line": "into desolation road where i'm a castaway goin' at it alone ",
-        "start_time": 183.68176583690985,
-        "end_time": 191.6645984549356,
-        "sentiment": "The lyrics are depicting a sense of isolation and abandonment as the persona navigates through a lonely and deserted path towards an uncertain destination. Despite being alone in their journey, they embrace their solitude and continue to move forward with determination and resilience."
-    },
-    {
-        "id": "751380b763374b2e902f77a7dec576af",
-        "artist": "Green_Day",
-        "title": "Castaway",
-        "youtube": "9mg-jwIIliU",
-        "line": "now i'm on my own castaway goin' at it alone castaway now i'm on my own ",
-        "start_time": 193.9821950214592,
-        "end_time": 203.76760274678108,
-        "sentiment": "The lyrics are expressing feelings of isolation and independence as the singer navigates their life without relying on others. The repetition of \"castaway\" emphasizes the theme of being alone and self-sufficient."
-    },
-    {
-        "id": "751380b763374b2e902f77a7dec576af",
-        "artist": "Green_Day",
-        "title": "Castaway",
-        "youtube": "9mg-jwIIliU",
-        "line": "castaway castaway castaway ",
-        "start_time": 208.14528515021456,
-        "end_time": 217.6731821459227,
-        "sentiment": "The lyrics are repetitive and convey a sense of loneliness or isolation. The repeated use of \"castaway\" suggests feelings of being abandoned or forgotten."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "oh no here it comes again can't remember when ",
-        "start_time": 12.254,
-        "end_time": 18.650988582086157,
-        "sentiment": "The lyrics are expressing a sense of impending dread or anxiety, as something unwanted or unpleasant is about to happen. The speaker also seems to be struggling to recall the last time they experienced this feeling."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "hold on, good things never last nothing's in the past ",
-        "start_time": 22.91564763681026,
-        "end_time": 30.98803799039517,
-        "sentiment": "The lyrics are expressing a sense of impermanence and the belief that positive experiences are fleeting. They convey the idea that dwelling on the past is futile and that one should focus on the present instead."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "again and again again and again again oh ",
-        "start_time": 35.40500629707371,
-        "end_time": 44.69587066629408,
-        "sentiment": "The lyrics are repetitive, emphasizing a sense of continuous recurrence and persistence. The use of the word \"again\" suggests a cycle of events or emotions that may be difficult to break."
-    },
-    {
-        "id": "848d6d923e9341ec805761c69499596a",
-        "artist": "Black_Sabbath",
-        "title": "Neon_Knights",
-        "youtube": "Jn-5-9-V1k0",
-        "line": "time again to save us from the jackals of the streets ride out protectors of the realm ",
-        "start_time": 51.245168500334664,
-        "end_time": 60.8406513734639,
-        "sentiment": "The lyrics are about heroes stepping up to defend their community from danger and ensuring the safety of their land. It portrays a sense of duty, courage, and sacrifice in the face of adversity."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "waves are breaking in a storm tornado sweep me off the floor ",
-        "start_time": 0.703,
-        "end_time": 7.7707324358435,
-        "sentiment": "The lyrics are expressing feelings of chaos and turmoil, symbolized by the storm and tornado imagery. The portrayal of being swept off the floor suggests a sense of overwhelming and uncontrollable forces at play."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "you wanna know what that's like like thousand needles in my heart ",
-        "start_time": 11.935646192679847,
-        "end_time": 20.013054690786703,
-        "sentiment": "The lyrics are expressing feelings of intense emotional pain and heartache, using vivid imagery of needles piercing the heart. This metaphor conveys the deep and overwhelming sensation of hurt and suffering."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "and now my world just crashing down now that i can't have you around ",
-        "start_time": 23.673130416491375,
-        "end_time": 31.687434160706772,
-        "sentiment": "The lyrics are expressing feelings of devastation and heartbreak over losing someone important in their life. This loss has caused their world to come crashing down and they deeply miss having that person around."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "i'm bleeding i can see you now in shades of grey ",
-        "start_time": 38.124119057635674,
-        "end_time": 45.44427050904501,
-        "sentiment": "The lyrics are expressing pain and vulnerability, as well as a sense of clarity and visibility in a difficult situation. The imagery of bleeding and seeing in shades of grey suggests a feeling of darkness and struggle."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "oh why you wanna break away i'm bleeding ",
-        "start_time": 48.22087968026925,
-        "end_time": 56.10897391670172,
-        "sentiment": "The lyrics are expressing feelings of heartbreak and pain as the singer realizes that the person they love is trying to leave them. The reference to bleeding symbolizes the emotional wounds and suffering caused by the breakup."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "a memory fading running fast in hail and rain ",
-        "start_time": 61.40977324358435,
-        "end_time": 69.86581026503997,
-        "sentiment": "The lyrics are conveying a sense of nostalgia and longing for a memory that is slipping away, despite facing challenges and obstacles. The imagery of running fast in hail and rain suggests a frantic effort to hold onto something that may soon be lost."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "throw all reason out the door won't make a difference no more ",
-        "start_time": 73.84140976020194,
-        "end_time": 81.7295039966344,
-        "sentiment": "The lyrics are conveying a sense of hopelessness and resignation, suggesting that logic and reasoning are futile in the situation being described. The speaker seems to acknowledge that their efforts or choices will not change the outcome, leading to a feeling of defeat."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "sure made it painful from the start you're eased it up back in our day ",
-        "start_time": 85.95752250736221,
-        "end_time": 93.78251198990324,
-        "sentiment": "The lyrics are reflecting on the difficulties and pain experienced at the beginning of a past relationship, but also acknowledging how those challenges were eventually overcome and the relationship was made easier over time."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "oh why you wanna break away i'm bleeding ",
-        "start_time": 98.45226377787127,
-        "end_time": 106.0879389987379,
-        "sentiment": "The lyrics are expressing feelings of pain and sadness, possibly stemming from a broken relationship. The speaker is questioning the decision of the other person to leave and is left feeling hurt and vulnerable."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "a memory fading oh why you wanna break away ",
-        "start_time": 111.38873832562052,
-        "end_time": 120.03408960875052,
-        "sentiment": "The lyrics are expressing a sense of longing and sadness as someone's memory starts to fade. The speaker questions why someone would want to separate from them during this difficult time."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "i can see you're now in shades of grey a memory fading ",
-        "start_time": 122.05344173327724,
-        "end_time": 130.1308502313841,
-        "sentiment": "The lyrics are expressing a sense of loss and detachment as the memory of someone fades away into the background. The speaker acknowledges the fading reality of the past with a melancholic acceptance of the present."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "a thousand needles in my heart ",
-        "start_time": 134.232659234329,
-        "end_time": 139.4072490534287,
-        "sentiment": "The lyrics are expressing intense emotional pain and heartache, likening the devastation to a physical sensation of countless needles piercing the heart. This metaphor emphasizes the overwhelming and excruciating nature of the emotional turmoil being experienced."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "oh, at the right time you'll be mine ",
-        "start_time": 88.03799999999997,
-        "end_time": 93.23799999999997,
-        "sentiment": "The lyrics are expressing anticipation and hope for a future romantic relationship. The singer is confident that the timing will align for them to be together."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "is all that you can say ",
-        "start_time": 100.63799999999996,
-        "end_time": 106.63799999999996,
-        "sentiment": "The lyrics are expressing frustration and disappointment with someone who lacks the ability to communicate effectively, leading to a sense of hopelessness and resignation towards the situation. This line suggests a feeling of being stuck in a situation where verbal communication is ineffective and unsatisfying."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "words don't come easily ",
-        "start_time": 113.23799999999997,
-        "end_time": 119.43799999999996,
-        "sentiment": "The lyrics are expressing a struggle to articulate feelings or thoughts. It conveys a sense of difficulty or frustration in finding the right words to communicate effectively."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "but you can say baby ",
-        "start_time": 124.43799999999996,
-        "end_time": 130.83799999999997,
-        "sentiment": "The lyrics are expressing a feeling of reassurance and comfort, as the speaker is letting someone know they can always seek solace and support in them. The sentiment is one of offering love and understanding in a relationship."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "baby if i told you the right words oooh, at the right time ",
-        "start_time": 137.03799999999995,
-        "end_time": 146.43799999999996,
-        "sentiment": "The lyrics are reflective of a desire to communicate effectively and with perfect timing to convey deep feelings to a loved one. The sentiment expressed is of longing for the right moment to express one's emotions in a meaningful and impactful way."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "baby can i hold you tonight ",
-        "start_time": 149.23799999999994,
-        "end_time": 156.23799999999994,
-        "sentiment": "The lyrics are reflective of a desire for comfort and closeness, expressing a longing for emotional connection and reassurance. The speaker is seeking solace and intimacy, yearning for the physical presence and support of another person."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "oooh, at the right time you'll be mine ",
-        "start_time": 162.83799999999994,
-        "end_time": 168.43799999999993,
-        "sentiment": "The lyrics are expressing anticipation and hope for a future romantic relationship. The singer believes that the timing will eventually align for them to be with their love interest."
-    },
-    {
-        "id": "520f583def024997adcab0567fb25a5d",
-        "artist": "Boyzone",
-        "title": "Baby_Can_I_Hold_You",
-        "youtube": "ZjSLNZ9MsMI",
-        "line": "you'll be mine ",
-        "start_time": 174.83799999999994,
-        "end_time": 181.23799999999994,
-        "sentiment": "The lyrics are expressing a desire for possession and control over someone, sending a message of dominance and ownership. The sentiment is possessive and determined to make the person in question belong to the speaker."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "i pack my case. i check my face. i look a little bit older. ",
-        "start_time": 0.642,
-        "end_time": 8.432821771611522,
-        "sentiment": "The lyrics are reflective and introspective, conveying a sense of readiness for a new chapter in life. They suggest a mix of anticipation and apprehension as the speaker prepares for a change."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "with one deep breath and one big step ",
-        "start_time": 11.847976520811093,
-        "end_time": 19.53207470651013,
-        "sentiment": "The lyrics are about taking a bold and decisive action, overcoming obstacles with determination and courage. It conveys a sense of strength and readiness to face challenges head-on."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "i move a little bit closer. for reasons unknown. ",
-        "start_time": 22.093440768409806,
-        "end_time": 30.311156883671277,
-        "sentiment": "The lyrics are expressing a sense of curiosity and mystery as the speaker is drawn closer to something without knowing why. This could suggest a yearning for answers or a desire to uncover the truth behind their actions."
-    },
-    {
-        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
-        "artist": "The_Killers",
-        "title": "For_Reasons_Unknown",
-        "youtube": "TG5X4kOjEX8",
-        "line": "i flew and flied. i know if destiny's kind ",
-        "start_time": 33.40614087513339,
-        "end_time": 40.236450373532534,
-        "sentiment": "The lyrics are reflective of a sense of boundless freedom and a belief in fate or destiny. The use of past tense verbs suggests a journey already taken and a sense of acceptance towards whatever lies ahead."
-    },
-    {
-        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
-        "artist": "Alex_Baroni",
-        "title": "Onde",
-        "youtube": "oz6jmDUIlxA",
-        "line": "onde sulle sponde dei tuoi fianchi-abbronzati attaccati-a me onde piu profonde ",
-        "start_time": 131.8001063157895,
-        "end_time": 141.6191852631579,
-        "sentiment": "The lyrics are expressing a deep connection and passion between two individuals, specifically focusing on physical intimacy and closeness. The imagery of waves and shores is used to illustrate the intensity of the emotion."
-    },
-    {
-        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
-        "artist": "Alex_Baroni",
-        "title": "Onde",
-        "youtube": "oz6jmDUIlxA",
-        "line": "che cosa non farei onde piu rotonde di quell'onda che-arriva-e non torna mai onde ",
-        "start_time": 143.69155368421053,
-        "end_time": 152.67181684210527,
-        "sentiment": "The lyrics are reflecting on the fleeting nature of time and the longing for moments that cannot be relived. The waves symbolize the passage of time and the desire to hold onto memories that slip away."
-    },
-    {
-        "id": "822d902e27b14845b739e35832f460a8",
-        "artist": "Skillet",
-        "title": "Imperfection",
-        "youtube": "4EneFhgjwWk",
-        "line": "you're worth so much it'll never be enough to see what you have to give ",
-        "start_time": 27.825,
-        "end_time": 35.38881972896313,
-        "sentiment": "The lyrics are expressing the idea that the value of the person is immeasurable and their potential is infinite. They emphasize that the individual has so much to offer, their worth is boundless."
-    },
-    {
-        "id": "822d902e27b14845b739e35832f460a8",
-        "artist": "Skillet",
-        "title": "Imperfection",
-        "youtube": "4EneFhgjwWk",
-        "line": "yet seem so far from everything you're wanting to be you're wanting to be ",
-        "start_time": 39.99802237630003,
-        "end_time": 48.625504254648604,
-        "sentiment": "The lyrics are reflective of feeling disconnected and unsatisfied with one's current self, desiring to achieve a different persona or identity. This emotional distance from one's aspirations is emphasized by the repetition of the longing to become something more."
-    },
-    {
-        "id": "822d902e27b14845b739e35832f460a8",
-        "artist": "Skillet",
-        "title": "Imperfection",
-        "youtube": "4EneFhgjwWk",
-        "line": "tears falling down you fall to your knees ",
-        "start_time": 54.29836905137094,
-        "end_time": 62.33492751339426,
-        "sentiment": "The lyrics are describing a moment of deep sadness and despair, where someone is overwhelmed by their emotions and finds themselves on the verge of breaking down. The imagery of tears falling down and falling to their knees conveys a sense of vulnerability and emotional pain."
-    },
-    {
-        "id": "822d902e27b14845b739e35832f460a8",
-        "artist": "Skillet",
-        "title": "Imperfection",
-        "youtube": "4EneFhgjwWk",
-        "line": "can i be somebody else for all the times i hate myself? your failures devour ",
-        "start_time": 64.69862117869525,
-        "end_time": 72.4200204853451,
-        "sentiment": "The lyrics are expressing a desire to escape one's own identity due to self-hatred. The mention of failures consuming the individual suggests a feeling of being overwhelmed by shortcomings and shortcomings."
-    },
-    {
-        "id": "822d902e27b14845b739e35832f460a8",
-        "artist": "Skillet",
-        "title": "Imperfection",
-        "youtube": "4EneFhgjwWk",
-        "line": "you're drowning in your imperfection ",
-        "start_time": 74.82310904506777,
-        "end_time": 79.98384021430823,
-        "sentiment": "The lyrics are reflective of someone feeling overwhelmed by their flaws and shortcomings. They express a sense of struggle and discomfort with one's own imperfections."
-    },
-    {
-        "id": "822d902e27b14845b739e35832f460a8",
-        "artist": "Skillet",
-        "title": "Imperfection",
-        "youtube": "4EneFhgjwWk",
-        "line": "that heaven would touch the face of humankind for you ",
-        "start_time": 90.54167191931927,
-        "end_time": 96.17514182161993,
-        "sentiment": "The lyrics are expressing a belief in the divine intervention of heaven on behalf of a specific person. It implies a deep connection and special favor granted to the individual."
-    },
-    {
-        "id": "822d902e27b14845b739e35832f460a8",
-        "artist": "Skillet",
-        "title": "Imperfection",
-        "youtube": "4EneFhgjwWk",
-        "line": "revel in your day you're fearfully and wonderfully made you're wonderfully made ",
-        "start_time": 100.66615978569179,
-        "end_time": 109.6481957138355,
-        "sentiment": "The lyrics are centered around self-appreciation and recognizing one's unique worth and beauty. It emphasizes the idea that each individual is created with purpose and should take joy in their existence."
-    },
-    {
-        "id": "822d902e27b14845b739e35832f460a8",
-        "artist": "Skillet",
-        "title": "Imperfection",
-        "youtube": "4EneFhgjwWk",
-        "line": "come let the healing begin you fall to your knees ",
-        "start_time": 114.92711156634101,
-        "end_time": 123.00306492278602,
-        "sentiment": "The lyrics are expressing a message of starting the journey towards healing and finding solace in surrendering and seeking help. It conveys a plea for forgiveness and a desire to overcome pain through humility and vulnerability."
-    },
-    {
-        "id": "822d902e27b14845b739e35832f460a8",
-        "artist": "Skillet",
-        "title": "Imperfection",
-        "youtube": "4EneFhgjwWk",
-        "line": "can i be somebody else for all the times i hate myself? your failures devour ",
-        "start_time": 125.366758588087,
-        "end_time": 133.08815789473684,
-        "sentiment": "The lyrics are expressing a desire to escape one's own identity and self-hatred, feeling overwhelmed by personal shortcomings. The mention of failures consuming the individual implies a sense of self-destruction and hopelessness."
-    },
-    {
-        "id": "822d902e27b14845b739e35832f460a8",
-        "artist": "Skillet",
-        "title": "Imperfection",
-        "youtube": "4EneFhgjwWk",
-        "line": "you're drowning in your imperfection ",
-        "start_time": 135.5306413488812,
-        "end_time": 140.6519776237,
-        "sentiment": "The lyrics are acknowledging the struggle of feeling overwhelmed by one's flaws and shortcomings. They communicate a sense of helplessness and being consumed by one's own imperfections."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "a thousand needles in my heart ",
-        "start_time": 148.68364787547327,
-        "end_time": 158.2124657130837,
-        "sentiment": "The lyrics are filled with imagery of pain and heartache, portraying a sense of overwhelming emotional turmoil. The phrase \"a thousand needles in my heart\" highlights the intensity and depth of suffering experienced by the speaker."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "oh why you wanna break away i'm bleeding ",
-        "start_time": 162.1880652082457,
-        "end_time": 170.1392641985696,
-        "sentiment": "The lyrics are expressing feelings of pain and sadness as the singer questions why someone would choose to leave. The imagery of bleeding conveys a sense of emotional hurt and vulnerability."
-    },
-    {
-        "id": "2ca4bcc3104d4b4d854c045577458513",
-        "artist": "Lea_Michele",
-        "title": "Thousand_Needles",
-        "youtube": "ZTNKZnRSlxE",
-        "line": "a memory fading i can see you wanna break away ",
-        "start_time": 175.5031682793437,
-        "end_time": 184.27472907025663,
-        "sentiment": "The lyrics are expressing a sense of loss and detachment as memories begin to fade away. The speaker can sense a desire for independence and freedom from the other person."
-    },
-    {
-        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
-        "artist": "Alex_Baroni",
-        "title": "Onde",
-        "youtube": "oz6jmDUIlxA",
-        "line": "eh si che cosa vuoi tu nei pensierimiei lo so ma come fai ",
-        "start_time": 22.90208,
-        "end_time": 31.09286947368421,
-        "sentiment": "The lyrics are questioning what someone wants and expressing doubt about their ability to understand. The singer is pondering how the other person is able to do something."
-    },
-    {
-        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
-        "artist": "Alex_Baroni",
-        "title": "Onde",
-        "youtube": "oz6jmDUIlxA",
-        "line": "vorrei che fossi sempre qui qui con me ",
-        "start_time": 33.55997473684211,
-        "end_time": 40.56655368421053,
-        "sentiment": "The lyrics are expressing a desire for someone to always be present and by their side. The sentiment conveys longing for constant companionship and the comfort of having the person nearby."
-    },
-    {
-        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
-        "artist": "Alex_Baroni",
-        "title": "Onde",
-        "youtube": "oz6jmDUIlxA",
-        "line": "mai e sta salendo su il sentimento qui ",
-        "start_time": 44.41523789473685,
-        "end_time": 53.59286947368422,
-        "sentiment": "The lyrics are expressing the sensation of a feeling rising within the speaker. This sentiment appears to be building and intensifying in the present moment."
-    },
-    {
-        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
-        "artist": "Alex_Baroni",
-        "title": "Onde",
-        "youtube": "oz6jmDUIlxA",
-        "line": "aspettami sei tu che come sabbia sei qui con me ",
-        "start_time": 56.35602736842105,
-        "end_time": 65.92839578947368,
-        "sentiment": "The lyrics are expressing a sense of anticipation and longing, comparing the subject to sand that is always present. The sentiment conveys a feeling of unity and closeness with the person being addressed."
-    },
-    {
-        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
-        "artist": "Alex_Baroni",
-        "title": "Onde",
-        "youtube": "oz6jmDUIlxA",
-        "line": "su di te onde sulle sponde dei tuoi fianchi-abbronzati ",
-        "start_time": 69.13563263157896,
-        "end_time": 77.62247473684211,
-        "sentiment": "The lyrics are describing the beauty and sensuality of the person's bronzed hips. They evoke images of waves crashing against the shores of the individual's body."
-    },
-    {
-        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
-        "artist": "Alex_Baroni",
-        "title": "Onde",
-        "youtube": "oz6jmDUIlxA",
-        "line": "onde piu profonde se ti guardo davvero che cosa non farei onde piu rotonde ",
-        "start_time": 79.20142210526316,
-        "end_time": 87.93497473684211,
-        "sentiment": "The lyrics are expressing deep feelings of love and desire, with the idea of being willing to do anything for the one being looked at with true affection. The lyrics also convey a sense of completeness and perfection in the presence of the beloved."
-    },
-    {
-        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
-        "artist": "Alex_Baroni",
-        "title": "Onde",
-        "youtube": "oz6jmDUIlxA",
-        "line": "non torna mai onde sulle sponde yee ",
-        "start_time": 90.15536947368422,
-        "end_time": 98.00076421052631,
-        "sentiment": "The lyrics are mysterious and contemplative, pondering the idea of something never returning to the shores. They evoke a sense of longing and uncertainty."
-    },
-    {
-        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
-        "artist": "Alex_Baroni",
-        "title": "Onde",
-        "youtube": "oz6jmDUIlxA",
-        "line": "diventa piu facile lo so che tu lo sai come si fa ",
-        "start_time": 110.13892210526316,
-        "end_time": 119.26721157894737,
-        "sentiment": "The lyrics are reflecting on the ease with which something becomes, acknowledging that the listener already knows how it's done. The sentiment expressed is one of reassurance and shared knowledge."
-    },
-    {
-        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
-        "artist": "Alex_Baroni",
-        "title": "Onde",
-        "youtube": "oz6jmDUIlxA",
-        "line": "che non ti fermi mai qui con me io sono il mare ",
-        "start_time": 121.48760631578948,
-        "end_time": 129.18497473684212,
-        "sentiment": "The lyrics are expressing a sense of longing and desire for someone to stay by their side, comparing the person to the vastness and permanence of the sea. The metaphor of the sea suggests that the singer wants this person to remain constant and faithful in their presence."
+        "sentiment": "The lyrics are expressing a desire to die and say goodbye."
     },
     {
         "id": "822d902e27b14845b739e35832f460a8",
@@ -1687,7 +127,7 @@
         "line": "so easily crushed wanna be like everyone else ",
         "start_time": 171.3799952726127,
         "end_time": 177.91954774661204,
-        "sentiment": "The lyrics are conveying a feeling of vulnerability and a desire to conform to societal norms. It reflects the speaker's struggle to fit in and the pressure to be like everyone else."
+        "sentiment": "The lyrics are expressing a desire to conform and fit in with society in order to avoid feeling vulnerable or easily defeated."
     },
     {
         "id": "822d902e27b14845b739e35832f460a8",
@@ -1697,7 +137,7 @@
         "line": "every breath we take dealing with our own skeletons skeletons ",
         "start_time": 181.5044831389852,
         "end_time": 191.03804758903246,
-        "sentiment": "The lyrics are expressing the idea of constantly facing internal struggles and past issues. The repetition of \"skeletons\" highlights the ongoing battle with personal demons."
+        "sentiment": "The lyrics are reflective of the internal struggles and burdens that we carry throughout life."
     },
     {
         "id": "822d902e27b14845b739e35832f460a8",
@@ -1707,7 +147,7 @@
         "line": "you beg, you plead can i be somebody else for all the times i hate myself? ",
         "start_time": 193.63811062086356,
         "end_time": 201.28072013867003,
-        "sentiment": "The lyrics are expressing a desire to escape one's own self and be someone different in order to alleviate self-hatred and inner turmoil. This internal struggle is illustrated through begging and pleading for a reprieve from self-loathing."
+        "sentiment": "The lyrics are expressing a desire to escape one's own identity and self-hatred."
     },
     {
         "id": "822d902e27b14845b739e35832f460a8",
@@ -1717,7 +157,7 @@
         "line": "your heart in every hour you're drowning in your imperfection ",
         "start_time": 203.84138827607944,
         "end_time": 212.5082650488497,
-        "sentiment": "The lyrics are expressing a feeling of overwhelming self-criticism and the struggle to accept one's own flaws. It conveys a sense of being consumed by internal judgment and insecurity."
+        "sentiment": "The lyrics are reflecting feelings of self-doubt and struggle with personal flaws and imperfections."
     },
     {
         "id": "822d902e27b14845b739e35832f460a8",
@@ -1727,7 +167,7 @@
         "line": "won't you believe, yeah all the things i see in you you're not the only one ",
         "start_time": 216.32956980775293,
         "end_time": 224.79947210841476,
-        "sentiment": "The lyrics are about a person expressing their belief in the qualities they see in someone else, indicating that the person is not the only one with those positive attributes."
+        "sentiment": "The lyrics are expressing a sense of admiration and reassurance towards someone, acknowledging that they are not alone in their experiences."
     },
     {
         "id": "751380b763374b2e902f77a7dec576af",
@@ -1737,7 +177,7 @@
         "line": "i'm on a sentimental journey into sight and sound  of no return and no looking back or down ",
         "start_time": 16.62168,
         "end_time": 24.797645665236054,
-        "sentiment": "The lyrics are evoking a sense of nostalgia and introspection, reflecting on a journey without the possibility of turning back or looking downwards. The sentiment is one of moving forward into the unknown with a mix of wistfulness and determination."
+        "sentiment": "The lyrics are reflecting a sense of moving forward with no regrets or hesitation."
     },
     {
         "id": "751380b763374b2e902f77a7dec576af",
@@ -1747,7 +187,7 @@
         "line": "war that's in my mind while leaving in the lurch and i'm taking back what's mine i'm on a mission ",
         "start_time": 27.37275296137339,
         "end_time": 35.35558557939914,
-        "sentiment": "The lyrics are expressing a sense of determined empowerment as the speaker confronts internal battles and claims ownership of their destiny. The words convey a resolute determination to take control and pursue a personal mission despite facing challenges."
+        "sentiment": "The lyrics are focused on reclaiming control and empowerment through a personal mission of self-discovery."
     },
     {
         "id": "751380b763374b2e902f77a7dec576af",
@@ -1757,7 +197,7 @@
         "line": "an expedition into desolation road ",
         "start_time": 38.44571433476395,
         "end_time": 46.68605768240343,
-        "sentiment": "The lyrics are reflective of a journey into a lonely and bleak environment. It conveys a sense of isolation and solitude as the speaker explores a desolate place."
+        "sentiment": "The lyrics are a somber reflection on a journey into a bleak and desolate place."
     },
     {
         "id": "751380b763374b2e902f77a7dec576af",
@@ -1767,7 +207,7 @@
         "line": "goin' at it alone- castaway now i'm on my own castaway ",
         "start_time": 49.518675708154504,
         "end_time": 57.759019055793985,
-        "sentiment": "The lyrics are about feeling abandoned and stranded, left to fend for oneself with no one to rely on. The speaker is navigating through life's challenges alone, feeling like a castaway in a sea of uncertainty."
+        "sentiment": "The lyrics are about feeling isolated and abandoned, navigating life on your own."
     },
     {
         "id": "751380b763374b2e902f77a7dec576af",
@@ -1777,7 +217,7 @@
         "line": "castaway now i'm on my own lost and found, trouble bound castaway ",
         "start_time": 59.81910489270386,
         "end_time": 69.34700188841201,
-        "sentiment": "The lyrics are reflective of a sense of being alone and abandoned, with a feeling of uncertainty and potential hardship ahead. The imagery of being a 'castaway' evokes a feeling of isolation and being adrift in difficult circumstances."
+        "sentiment": "The lyrics are about feeling isolated and lost, facing challenges and hardships on one's own."
     },
     {
         "id": "751380b763374b2e902f77a7dec576af",
@@ -1787,7 +227,7 @@
         "line": "driving stolen cars testing my nerves out on the boulevard spontaneous combustion in the corners of my mind ",
         "start_time": 78.87489888412017,
         "end_time": 88.40279587982832,
-        "sentiment": "The lyrics are about living a reckless and daring lifestyle, taking risks and experiencing intense adrenaline rushes. It conveys a sense of thrill, danger, and living in the moment without fear of consequences."
+        "sentiment": "The lyrics are about recklessness and inner turmoil while engaging in risky behavior."
     },
     {
         "id": "751380b763374b2e902f77a7dec576af",
@@ -1797,7 +237,1567 @@
         "line": "and i'm taking back what's mine i'm on a mission into destination unknown ",
         "start_time": 90.72039244635192,
         "end_time": 98.1882036051502,
-        "sentiment": "The lyrics are about reclaiming control and embarking on a journey with an uncertain outcome. They convey a sense of determination and courage in the face of the unknown."
+        "sentiment": " The lyrics are about reclaiming control and embarking on a journey towards an uncertain future."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "but my heart it dont beat it dont beat the way it used to. and my eyes ",
+        "start_time": 44.39867022411951,
+        "end_time": 52.723109925293464,
+        "sentiment": "The lyrics are expressing feelings of longing and loss after a heartbreak."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "and my lips they dont kiss they dont kiss the way they used to ",
+        "start_time": 56.88532977588044,
+        "end_time": 64.78287513340445,
+        "sentiment": "The lyrics are reflecting on a lack of passion and intimacy in a romantic relationship."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "for reasons unknown; ",
+        "start_time": 70.54594877267873,
+        "end_time": 75.02833938100316,
+        "sentiment": "The lyrics are expressing a sense of confusion or uncertainty regarding a particular situation or circumstance."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "there was an open chair. ",
+        "start_time": 81.85864887940231,
+        "end_time": 88.68895837780144,
+        "sentiment": "The lyrics are expressing a feeling of emptiness or absence symbolized by an empty chair."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "the open chair. i said if destiny's kind ",
+        "start_time": 91.99738954108854,
+        "end_time": 98.50752828175021,
+        "sentiment": "The lyrics are contemplating the uncertainty of destiny and the feeling of emptiness left by an absent presence."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "but my heart it dont beat it dont beat the way it used to. and my eyes ",
+        "start_time": 102.5630245464247,
+        "end_time": 110.78074066168618,
+        "sentiment": "The lyrics are expressing sadness and longing for the past, while acknowledging that time has changed the way the heart feels and the way the eyes see."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "and my lips they dont kiss they don't kiss the way they used to ",
+        "start_time": 114.94296051227315,
+        "end_time": 122.73378228388468,
+        "sentiment": "The lyrics are expressing a loss of romance or intimacy in a relationship."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "for reasons unknown; ",
+        "start_time": 128.9237502668089,
+        "end_time": 133.08597011739587,
+        "sentiment": "The lyrics are expressing confusion or uncertainty about certain circumstances."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "i said my heart it don't beat ",
+        "start_time": 139.91627961579502,
+        "end_time": 146.74658911419417,
+        "sentiment": "The lyrics are expressing the feeling of emotional numbness or detachment."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "and my eyes don't recognize you no more. ",
+        "start_time": 150.16174386339372,
+        "end_time": 157.09877694770537,
+        "sentiment": "The lyrics are expressing feelings of detachment and unfamiliarity towards someone who has changed."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "they don't kiss the way they used to and my eyes don't recognize you ",
+        "start_time": 160.30048452507995,
+        "end_time": 167.45096478121656,
+        "sentiment": "The lyrics are expressing a sense of lost familiarity and disconnection in a relationship."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "for reasons unknown; for reasons unknown; ",
+        "start_time": 171.1862902881536,
+        "end_time": 180.89813660618987,
+        "sentiment": "The lyrics are reflecting on the mysterious and inexplicable motivations behind certain actions."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "oh, at the right time you'll be mine ",
+        "start_time": 88.03799999999997,
+        "end_time": 93.23799999999997,
+        "sentiment": "The lyrics are expressing hope and anticipation for a future romantic relationship."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "is all that you can say ",
+        "start_time": 100.63799999999996,
+        "end_time": 106.63799999999996,
+        "sentiment": "The lyrics are questioning the limited expressions of one's feelings."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "words don't come easily ",
+        "start_time": 113.23799999999997,
+        "end_time": 119.43799999999996,
+        "sentiment": "The lyrics are expressing the struggle of articulating one's thoughts or emotions."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "but you can say baby ",
+        "start_time": 124.43799999999996,
+        "end_time": 130.83799999999997,
+        "sentiment": "The lyrics are expressing reassurance and comfort in a relationship."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "baby if i told you the right words oooh, at the right time ",
+        "start_time": 137.03799999999995,
+        "end_time": 146.43799999999996,
+        "sentiment": "The lyrics are expressing a desire to communicate effectively and sincerely with someone important."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "baby can i hold you tonight ",
+        "start_time": 149.23799999999994,
+        "end_time": 156.23799999999994,
+        "sentiment": "The lyrics are expressing a longing for physical comfort and emotional connection."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "oooh, at the right time you'll be mine ",
+        "start_time": 162.83799999999994,
+        "end_time": 168.43799999999993,
+        "sentiment": "The lyrics are expressing anticipation and hope for a future romantic connection."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "you'll be mine ",
+        "start_time": 174.83799999999994,
+        "end_time": 181.23799999999994,
+        "sentiment": "The lyrics are expressing a possessive and longing desire for someone to be in a romantic relationship."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "i pack my case. i check my face. i look a little bit older. ",
+        "start_time": 0.642,
+        "end_time": 8.432821771611522,
+        "sentiment": "The lyrics are reflective and introspective, expressing a sense of growing older and perhaps a bit wistful."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "with one deep breath and one big step ",
+        "start_time": 11.847976520811093,
+        "end_time": 19.53207470651013,
+        "sentiment": "The lyrics are about taking a bold and decisive action, despite any uncertainty or fear."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "i move a little bit closer. for reasons unknown. ",
+        "start_time": 22.093440768409806,
+        "end_time": 30.311156883671277,
+        "sentiment": "The lyrics are expressing a sense of mysterious intrigue and curiosity as the singer moves closer for unknown reasons."
+    },
+    {
+        "id": "0f46aeae45ed4e6987f8b35e40d96c59",
+        "artist": "The_Killers",
+        "title": "For_Reasons_Unknown",
+        "youtube": "TG5X4kOjEX8",
+        "line": "i flew and flied. i know if destiny's kind ",
+        "start_time": 33.40614087513339,
+        "end_time": 40.236450373532534,
+        "sentiment": "The lyrics are reflecting on the uncertainty of fate and the feeling of overcoming obstacles."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "night is draggin' her feet ",
+        "start_time": 13.09675,
+        "end_time": 18.40925,
+        "sentiment": "The lyrics are describing the slow and heavy passage of time during the night."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "alone in the heat i know ",
+        "start_time": 23.878000000000004,
+        "end_time": 33.56550000000001,
+        "sentiment": "The lyrics are expressing feelings of loneliness and solitude in challenging circumstances."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "do you have to go home no is a word i can't say ",
+        "start_time": 39.659250000000014,
+        "end_time": 48.253000000000014,
+        "sentiment": "The lyrics are expressing reluctance to part ways with someone, unable to say no to them leaving."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "to tell you no and it get's me nowhere to make you go will a little more love ",
+        "start_time": 51.378000000000014,
+        "end_time": 60.440500000000014,
+        "sentiment": "The lyrics are expressing frustration with unreciprocated love and the desire for more affection."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "will a little more love bring a happy ending will a little more love make it right ",
+        "start_time": 63.40925000000002,
+        "end_time": 71.53425000000001,
+        "sentiment": "The lyrics are contemplative and hopeful, questioning if love can bring about a positive resolution."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "where, where did my innocence go ",
+        "start_time": 77.62800000000003,
+        "end_time": 85.90925000000003,
+        "sentiment": "The lyrics are reflecting on the loss of innocence and the subsequent feelings of maturity and world-weariness."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "i'm trapped ",
+        "start_time": 95.75300000000003,
+        "end_time": 101.22175000000003,
+        "sentiment": "The lyrics are expressing a feeling of being confined and unable to escape."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "in the warmth of your arms in the web of your lies ",
+        "start_time": 107.15925000000003,
+        "end_time": 116.06550000000004,
+        "sentiment": "The lyrics are exploring the feeling of comfort and protection within a deceitful and manipulative relationship."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "to tell you know and it get's me nowhere to make you go will a little more love ",
+        "start_time": 118.72175000000004,
+        "end_time": 127.94050000000004,
+        "sentiment": "The lyrics are expressing frustration and helplessness in trying to convince someone to stay through the power of love."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "will a little more love bring a happy ending will a little more love make it right ",
+        "start_time": 130.75300000000004,
+        "end_time": 139.03425000000004,
+        "sentiment": "The lyrics are reflecting on the possibility of love leading to a positive outcome and resolution."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "it get's me nowhere to tell you know and it get's me nowhere to make you go ",
+        "start_time": 145.59675000000004,
+        "end_time": 154.50300000000004,
+        "sentiment": "The lyrics are about the futility of trying to push someone away when they're determined to stay."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "make you stop depending will a little more love bring a happy ending ",
+        "start_time": 157.00300000000004,
+        "end_time": 164.50300000000004,
+        "sentiment": "The lyrics are reflecting on the potential for love to bring fulfillment and a positive outcome in life."
+    },
+    {
+        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
+        "artist": "Alex_Baroni",
+        "title": "Onde",
+        "youtube": "oz6jmDUIlxA",
+        "line": "onde sulle sponde dei tuoi fianchi-abbronzati attaccati-a me onde piu profonde ",
+        "start_time": 131.8001063157895,
+        "end_time": 141.6191852631579,
+        "sentiment": "The lyrics are about the deep connection and attachment between two people, using imagery of waves and the sun."
+    },
+    {
+        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
+        "artist": "Alex_Baroni",
+        "title": "Onde",
+        "youtube": "oz6jmDUIlxA",
+        "line": "che cosa non farei onde piu rotonde di quell'onda che-arriva-e non torna mai onde ",
+        "start_time": 143.69155368421053,
+        "end_time": 152.67181684210527,
+        "sentiment": "The lyrics are reflecting on the longing for something that cannot be recaptured or undone."
+    },
+    {
+        "id": "822d902e27b14845b739e35832f460a8",
+        "artist": "Skillet",
+        "title": "Imperfection",
+        "youtube": "4EneFhgjwWk",
+        "line": "you're worth so much it'll never be enough to see what you have to give ",
+        "start_time": 27.825,
+        "end_time": 35.38881972896313,
+        "sentiment": "The lyrics are expressing admiration for someone's deep and invaluable qualities."
+    },
+    {
+        "id": "822d902e27b14845b739e35832f460a8",
+        "artist": "Skillet",
+        "title": "Imperfection",
+        "youtube": "4EneFhgjwWk",
+        "line": "yet seem so far from everything you're wanting to be you're wanting to be ",
+        "start_time": 39.99802237630003,
+        "end_time": 48.625504254648604,
+        "sentiment": "The lyrics are describing a feeling of yearning for personal growth and improvement that seems out of reach."
+    },
+    {
+        "id": "822d902e27b14845b739e35832f460a8",
+        "artist": "Skillet",
+        "title": "Imperfection",
+        "youtube": "4EneFhgjwWk",
+        "line": "tears falling down you fall to your knees ",
+        "start_time": 54.29836905137094,
+        "end_time": 62.33492751339426,
+        "sentiment": "The lyrics are expressing deep emotional pain and sorrow."
+    },
+    {
+        "id": "822d902e27b14845b739e35832f460a8",
+        "artist": "Skillet",
+        "title": "Imperfection",
+        "youtube": "4EneFhgjwWk",
+        "line": "can i be somebody else for all the times i hate myself? your failures devour ",
+        "start_time": 64.69862117869525,
+        "end_time": 72.4200204853451,
+        "sentiment": "The lyrics are about wanting to escape from self-loathing by becoming someone else."
+    },
+    {
+        "id": "822d902e27b14845b739e35832f460a8",
+        "artist": "Skillet",
+        "title": "Imperfection",
+        "youtube": "4EneFhgjwWk",
+        "line": "you're drowning in your imperfection ",
+        "start_time": 74.82310904506777,
+        "end_time": 79.98384021430823,
+        "sentiment": "The lyrics are expressing a feeling of being overwhelmed by one's flaws and shortcomings."
+    },
+    {
+        "id": "822d902e27b14845b739e35832f460a8",
+        "artist": "Skillet",
+        "title": "Imperfection",
+        "youtube": "4EneFhgjwWk",
+        "line": "that heaven would touch the face of humankind for you ",
+        "start_time": 90.54167191931927,
+        "end_time": 96.17514182161993,
+        "sentiment": "The lyrics are describing the belief that an individual is so special that heaven would intervene on their behalf."
+    },
+    {
+        "id": "822d902e27b14845b739e35832f460a8",
+        "artist": "Skillet",
+        "title": "Imperfection",
+        "youtube": "4EneFhgjwWk",
+        "line": "revel in your day you're fearfully and wonderfully made you're wonderfully made ",
+        "start_time": 100.66615978569179,
+        "end_time": 109.6481957138355,
+        "sentiment": "The lyrics are reminding the listener to appreciate their unique qualities and embrace their individuality."
+    },
+    {
+        "id": "822d902e27b14845b739e35832f460a8",
+        "artist": "Skillet",
+        "title": "Imperfection",
+        "youtube": "4EneFhgjwWk",
+        "line": "come let the healing begin you fall to your knees ",
+        "start_time": 114.92711156634101,
+        "end_time": 123.00306492278602,
+        "sentiment": "The lyrics are about finding strength in vulnerability and starting the process of healing."
+    },
+    {
+        "id": "822d902e27b14845b739e35832f460a8",
+        "artist": "Skillet",
+        "title": "Imperfection",
+        "youtube": "4EneFhgjwWk",
+        "line": "can i be somebody else for all the times i hate myself? your failures devour ",
+        "start_time": 125.366758588087,
+        "end_time": 133.08815789473684,
+        "sentiment": "The lyrics are exploring feelings of self-hatred and wishing to escape one's own identity."
+    },
+    {
+        "id": "822d902e27b14845b739e35832f460a8",
+        "artist": "Skillet",
+        "title": "Imperfection",
+        "youtube": "4EneFhgjwWk",
+        "line": "you're drowning in your imperfection ",
+        "start_time": 135.5306413488812,
+        "end_time": 140.6519776237,
+        "sentiment": "The lyrics are depicting feelings of being overwhelmed by one's flaws and shortcomings."
+    },
+    {
+        "id": "3d45ce1696a14969b02b462f52a46d26",
+        "artist": "Magtens_Korridorer",
+        "title": "Nordhavn_Station",
+        "youtube": "aJCOAZMn9pU",
+        "line": "en sondag-i december ",
+        "start_time": 161.31870941176467,
+        "end_time": 167.23047411764702,
+        "sentiment": "The lyrics are reflective of a peaceful and wintry Sunday in December."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "comme elle est partie jim a les nerfs ",
+        "start_time": 30.729999999999997,
+        "end_time": 34.28776587605202,
+        "sentiment": "The lyrics are expressing the feeling of frustration and distress that Jim is experiencing after she has left."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "la presqu'ile le boulevard de la mer est con ",
+        "start_time": 41.57544758990053,
+        "end_time": 49.09266258607497,
+        "sentiment": "The lyrics are expressing frustration or disdain towards the peninsula and the boulevard by the sea."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "attention jimmy tourne en rond ",
+        "start_time": 53.16687834736035,
+        "end_time": 56.6672609028309,
+        "sentiment": "The lyrics are expressing concern for someone named Jimmy who is feeling restless or agitated."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "le serrait si fort en disant jim ",
+        "start_time": 63.89755929609792,
+        "end_time": 71.12785768936493,
+        "sentiment": "The lyrics are expressing a strong emotional attachment and affection between two individuals."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "comme elle est partie attention jimmy tourne pas rond ",
+        "start_time": 78.47292272379494,
+        "end_time": 86.04752104055086,
+        "sentiment": "The lyrics are expressing concern for Jimmy's state of mind after someone has left him."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "sur le cuir de ta chrysler la bas le soleil s'ecroule dans la mer ",
+        "start_time": 92.24491966335117,
+        "end_time": 101.13933435348122,
+        "sentiment": "The lyrics are a picturesque and nostalgic reflection on watching the sunset over the ocean from the leather seats of a Chrysler."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "comme l'alcool et les revolvers c'est sauter en l'air tomber par terre ",
+        "start_time": 106.93504973221113,
+        "end_time": 114.68179801071153,
+        "sentiment": "The lyrics are describing a reckless and dangerous lifestyle that involves alcohol and guns, ultimately leading to self-destructive behavior."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "pour que sa starlette bronze enhors bord ",
+        "start_time": 122.48592960979337,
+        "end_time": 129.88837796480485,
+        "sentiment": "The lyrics are expressing a desire for a starlet to tan outside the edge."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "comme elle estpar tie attention jimmy veut mou rir ",
+        "start_time": 137.29082631981632,
+        "end_time": 144.75065799540928,
+        "sentiment": "The lyrics are expressing a dark sentiment of a person named Jimmy wanting to die due to being ignored by someone."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "sur le cuir de tachrys ler la bas le soleil s'ecroule dansla mer ",
+        "start_time": 151.234973221117,
+        "end_time": 159.72770466717668,
+        "sentiment": "The lyrics are describing the sun setting into the sea."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "comme l'alcool et les revolvers c'est sauter en l'air tomber par terre ",
+        "start_time": 165.81033664881403,
+        "end_time": 173.38493496556995,
+        "sentiment": "The lyrics are discussing the destructiveness of alcohol and guns, symbolizing a destructive and chaotic existence."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "will a little more love make it right but it get's me nowhere ",
+        "start_time": 167.94050000000004,
+        "end_time": 176.22175000000004,
+        "sentiment": "The lyrics are expressing doubt that more love will fix the situation."
+    },
+    {
+        "id": "f0226382730a4d339283c0e2cfaad43b",
+        "artist": "Olivia_Newton_John",
+        "title": "A_Little_More_Love",
+        "youtube": "4RFK8Ft-GNQ",
+        "line": "and it get's me nowhere to make you go will a little more love make you stop depending ",
+        "start_time": 178.40925000000004,
+        "end_time": 188.25300000000004,
+        "sentiment": "The lyrics are about the futility of trying to change someone's behavior with love."
+    },
+    {
+        "id": "3d45ce1696a14969b02b462f52a46d26",
+        "artist": "Magtens_Korridorer",
+        "title": "Nordhavn_Station",
+        "youtube": "aJCOAZMn9pU",
+        "line": "carla korer natten hun er lige blevet atten og derude droner bilerne forbi dan er blevet tyve han har lige laert at lyve ved praecis hvad han skal sige ",
+        "start_time": 26.495179999999998,
+        "end_time": 35.848121176470585,
+        "sentiment": "The lyrics are reflective of the passage of time and the transition from youth to adulthood, with themes of deception and self-awareness."
+    },
+    {
+        "id": "3d45ce1696a14969b02b462f52a46d26",
+        "artist": "Magtens_Korridorer",
+        "title": "Nordhavn_Station",
+        "youtube": "aJCOAZMn9pU",
+        "line": "regnvade rude som en elskers hedeblik men der-er-edderradme mange der gar rundt og er for bange-og en dag sa slar den klik ",
+        "start_time": 38.3187094117647,
+        "end_time": 46.43635647058823,
+        "sentiment": "The lyrics are expressing a sense of vulnerability and fear, highlighting the presence of many individuals who are too afraid to take risks until eventually succumbing to their limitations."
+    },
+    {
+        "id": "3d45ce1696a14969b02b462f52a46d26",
+        "artist": "Magtens_Korridorer",
+        "title": "Nordhavn_Station",
+        "youtube": "aJCOAZMn9pU",
+        "line": "en sondag-i december ",
+        "start_time": 50.36282705882353,
+        "end_time": 56.67165058823528,
+        "sentiment": "The lyrics are reflective of a peaceful and quiet Sunday in December."
+    },
+    {
+        "id": "3d45ce1696a14969b02b462f52a46d26",
+        "artist": "Magtens_Korridorer",
+        "title": "Nordhavn_Station",
+        "youtube": "aJCOAZMn9pU",
+        "line": "en sondag-i december krige uden tojler ",
+        "start_time": 60.906944705882346,
+        "end_time": 69.59812117647058,
+        "sentiment": "The lyrics are poetic and describe a Sunday in December without restraint."
+    },
+    {
+        "id": "3d45ce1696a14969b02b462f52a46d26",
+        "artist": "Magtens_Korridorer",
+        "title": "Nordhavn_Station",
+        "youtube": "aJCOAZMn9pU",
+        "line": "kaerligheden den er forladt romeo-er junkie hende julie-er-en zombie deres dag er blevet til nat og sa-er der habet hvad med det? ",
+        "start_time": 71.18635647058822,
+        "end_time": 80.00988588235293,
+        "sentiment": "The lyrics are portraying a bleak and hopeless portrayal of love, with references to addiction and the loss of hope."
+    },
+    {
+        "id": "3d45ce1696a14969b02b462f52a46d26",
+        "artist": "Magtens_Korridorer",
+        "title": "Nordhavn_Station",
+        "youtube": "aJCOAZMn9pU",
+        "line": "nar der-er tarer pa din kind men der-er steder man kan gemme sig man ikke kan se derude fra nar tagen ruller ind ",
+        "start_time": 81.33341529411763,
+        "end_time": 88.70106235294116,
+        "sentiment": "The lyrics are contemplative and introspective, discussing the hidden places one can seek refuge when feeling overwhelmed or emotional."
+    },
+    {
+        "id": "3d45ce1696a14969b02b462f52a46d26",
+        "artist": "Magtens_Korridorer",
+        "title": "Nordhavn_Station",
+        "youtube": "aJCOAZMn9pU",
+        "line": "en sondag-i december ",
+        "start_time": 92.67165058823528,
+        "end_time": 98.58341529411763,
+        "sentiment": "The lyrics are reflecting on a Sunday in December."
+    },
+    {
+        "id": "3d45ce1696a14969b02b462f52a46d26",
+        "artist": "Magtens_Korridorer",
+        "title": "Nordhavn_Station",
+        "youtube": "aJCOAZMn9pU",
+        "line": "en sondag-i december yeah ",
+        "start_time": 103.25988588235293,
+        "end_time": 110.58341529411763,
+        "sentiment": "The lyrics are expressing a feeling of nostalgia and reflection on a Sunday in December."
+    },
+    {
+        "id": "3d45ce1696a14969b02b462f52a46d26",
+        "artist": "Magtens_Korridorer",
+        "title": "Nordhavn_Station",
+        "youtube": "aJCOAZMn9pU",
+        "line": "en sondag-i december ",
+        "start_time": 140.23047411764702,
+        "end_time": 146.40694470588232,
+        "sentiment": "The lyrics are reflective of a peaceful moment on a Sunday in December."
+    },
+    {
+        "id": "3d45ce1696a14969b02b462f52a46d26",
+        "artist": "Magtens_Korridorer",
+        "title": "Nordhavn_Station",
+        "youtube": "aJCOAZMn9pU",
+        "line": "en sondag-i december ",
+        "start_time": 150.73047411764702,
+        "end_time": 156.99517999999998,
+        "sentiment": "The lyrics are expressing a melancholic and wistful feeling associated with a Sunday in December."
+    },
+    {
+        "id": "e186227bb7474fa5a7738c9108f11972",
+        "artist": "Staind",
+        "title": "Tangled_Up_In_You",
+        "youtube": "NXG-ayocugI",
+        "line": "you're my world,. the shelter from the rain ",
+        "start_time": 29.542,
+        "end_time": 36.7045,
+        "sentiment": "The lyrics are expressing gratitude for someone who brings comfort and protection in difficult times."
+    },
+    {
+        "id": "e186227bb7474fa5a7738c9108f11972",
+        "artist": "Staind",
+        "title": "Tangled_Up_In_You",
+        "youtube": "NXG-ayocugI",
+        "line": "that take away my pain ",
+        "start_time": 43.6795,
+        "end_time": 48.4045,
+        "sentiment": "The lyrics are expressing a sense of relief and comfort gained from the presence of someone special who helps alleviate emotional suffering."
+    },
+    {
+        "id": "e186227bb7474fa5a7738c9108f11972",
+        "artist": "Staind",
+        "title": "Tangled_Up_In_You",
+        "youtube": "NXG-ayocugI",
+        "line": "that helps me find my way ",
+        "start_time": 54.742,
+        "end_time": 60.104499999999994,
+        "sentiment": "The lyrics are expressing gratitude for something that acts as a guiding light in the speaker's life."
+    },
+    {
+        "id": "e186227bb7474fa5a7738c9108f11972",
+        "artist": "Staind",
+        "title": "Tangled_Up_In_You",
+        "youtube": "NXG-ayocugI",
+        "line": "when i have nothing to say ",
+        "start_time": 66.96699999999998,
+        "end_time": 71.80449999999999,
+        "sentiment": "The lyrics are expressing a feeling of speechlessness or lack of words."
+    },
+    {
+        "id": "e186227bb7474fa5a7738c9108f11972",
+        "artist": "Staind",
+        "title": "Tangled_Up_In_You",
+        "youtube": "NXG-ayocugI",
+        "line": "where nothing else is true ",
+        "start_time": 79.0795,
+        "end_time": 83.7295,
+        "sentiment": "The lyrics are expressing a feeling of isolation and disillusionment, emphasizing the lack of truth in the surroundings."
+    },
+    {
+        "id": "e186227bb7474fa5a7738c9108f11972",
+        "artist": "Staind",
+        "title": "Tangled_Up_In_You",
+        "youtube": "NXG-ayocugI",
+        "line": "still tangled up in you ",
+        "start_time": 90.7045,
+        "end_time": 95.5045,
+        "sentiment": "The lyrics are expressing feelings of confusion and emotional attachment towards someone."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "sorry is all that you can say ",
+        "start_time": 13.238,
+        "end_time": 20.037999999999997,
+        "sentiment": "The lyrics are expressing remorse and the limitations of apologizing."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "words don't come easily ",
+        "start_time": 26.437999999999995,
+        "end_time": 32.837999999999994,
+        "sentiment": "The lyrics are expressing difficulty in verbal communication."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "forgive me ",
+        "start_time": 38.03799999999999,
+        "end_time": 44.43799999999999,
+        "sentiment": "The lyrics are expressing a plea for forgiveness."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "years gone by and still ",
+        "start_time": 50.43799999999999,
+        "end_time": 56.83799999999999,
+        "sentiment": "The lyrics are reflecting on the passage of time and the feeling of stagnation or lack of progress."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "like forgive me ",
+        "start_time": 63.237999999999985,
+        "end_time": 66.43799999999999,
+        "sentiment": "The lyrics are expressing a plea for forgiveness or understanding from someone."
+    },
+    {
+        "id": "520f583def024997adcab0567fb25a5d",
+        "artist": "Boyzone",
+        "title": "Baby_Can_I_Hold_You",
+        "youtube": "ZjSLNZ9MsMI",
+        "line": "baby can i hold you tonight ",
+        "start_time": 74.83799999999998,
+        "end_time": 80.83799999999998,
+        "sentiment": "The lyrics are expressing a desire for emotional comfort and intimacy."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "a thousand needles in my heart ",
+        "start_time": 148.68364787547327,
+        "end_time": 158.2124657130837,
+        "sentiment": "The lyrics are expressing extreme emotional pain and heartache."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "oh why you wanna break away i'm bleeding ",
+        "start_time": 162.1880652082457,
+        "end_time": 170.1392641985696,
+        "sentiment": "The lyrics are expressing feelings of heartbreak and pain as the speaker questions why their partner wants to leave them."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "a memory fading i can see you wanna break away ",
+        "start_time": 175.5031682793437,
+        "end_time": 184.27472907025663,
+        "sentiment": "The lyrics are reflecting on the pain of watching someone you love want to move on and forget about you."
+    },
+    {
+        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
+        "artist": "Alex_Baroni",
+        "title": "Onde",
+        "youtube": "oz6jmDUIlxA",
+        "line": "eh si che cosa vuoi tu nei pensierimiei lo so ma come fai ",
+        "start_time": 22.90208,
+        "end_time": 31.09286947368421,
+        "sentiment": "The lyrics are expressing confusion and frustration about knowing someone's thoughts and desires but not understanding how they feel."
+    },
+    {
+        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
+        "artist": "Alex_Baroni",
+        "title": "Onde",
+        "youtube": "oz6jmDUIlxA",
+        "line": "vorrei che fossi sempre qui qui con me ",
+        "start_time": 33.55997473684211,
+        "end_time": 40.56655368421053,
+        "sentiment": "The lyrics are expressing a desire for someone to always be present and by their side."
+    },
+    {
+        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
+        "artist": "Alex_Baroni",
+        "title": "Onde",
+        "youtube": "oz6jmDUIlxA",
+        "line": "mai e sta salendo su il sentimento qui ",
+        "start_time": 44.41523789473685,
+        "end_time": 53.59286947368422,
+        "sentiment": "The lyrics are expressing the feeling of love intensifying."
+    },
+    {
+        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
+        "artist": "Alex_Baroni",
+        "title": "Onde",
+        "youtube": "oz6jmDUIlxA",
+        "line": "aspettami sei tu che come sabbia sei qui con me ",
+        "start_time": 56.35602736842105,
+        "end_time": 65.92839578947368,
+        "sentiment": "The lyrics are expressing a longing for someone who is always by their side like sand."
+    },
+    {
+        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
+        "artist": "Alex_Baroni",
+        "title": "Onde",
+        "youtube": "oz6jmDUIlxA",
+        "line": "su di te onde sulle sponde dei tuoi fianchi-abbronzati ",
+        "start_time": 69.13563263157896,
+        "end_time": 77.62247473684211,
+        "sentiment": "The lyrics are describing a person's admiration for someone's tanned skin and curves."
+    },
+    {
+        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
+        "artist": "Alex_Baroni",
+        "title": "Onde",
+        "youtube": "oz6jmDUIlxA",
+        "line": "onde piu profonde se ti guardo davvero che cosa non farei onde piu rotonde ",
+        "start_time": 79.20142210526316,
+        "end_time": 87.93497473684211,
+        "sentiment": "The lyrics are introspective and passionate, expressing a willingness to do anything for the person being looked at deeply."
+    },
+    {
+        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
+        "artist": "Alex_Baroni",
+        "title": "Onde",
+        "youtube": "oz6jmDUIlxA",
+        "line": "non torna mai onde sulle sponde yee ",
+        "start_time": 90.15536947368422,
+        "end_time": 98.00076421052631,
+        "sentiment": "The lyrics are filled with longing and yearning for something that will never return."
+    },
+    {
+        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
+        "artist": "Alex_Baroni",
+        "title": "Onde",
+        "youtube": "oz6jmDUIlxA",
+        "line": "diventa piu facile lo so che tu lo sai come si fa ",
+        "start_time": 110.13892210526316,
+        "end_time": 119.26721157894737,
+        "sentiment": "The lyrics are describing a realization that something becomes easier when both parties know how to do it."
+    },
+    {
+        "id": "603fdd91428444cfbc34f1d1e2b5bfbc",
+        "artist": "Alex_Baroni",
+        "title": "Onde",
+        "youtube": "oz6jmDUIlxA",
+        "line": "che non ti fermi mai qui con me io sono il mare ",
+        "start_time": 121.48760631578948,
+        "end_time": 129.18497473684212,
+        "sentiment": "The lyrics are expressing a sense of longing for someone to never leave the speaker's side, comparing their presence to the constant and vast nature of the sea."
+    },
+    {
+        "id": "751380b763374b2e902f77a7dec576af",
+        "artist": "Green_Day",
+        "title": "Castaway",
+        "youtube": "9mg-jwIIliU",
+        "line": "into desolation road where i'm a castaway goin' at it alone ",
+        "start_time": 103.33841819742489,
+        "end_time": 111.32125081545063,
+        "sentiment": "The lyrics are about feeling isolated and abandoned, navigating through life on one's own."
+    },
+    {
+        "id": "751380b763374b2e902f77a7dec576af",
+        "artist": "Green_Day",
+        "title": "Castaway",
+        "youtube": "9mg-jwIIliU",
+        "line": "now i'm on my own castaway goin' at it alone castaway now i'm on my own ",
+        "start_time": 113.63884738197423,
+        "end_time": 123.42425510729612,
+        "sentiment": "The lyrics are about feeling isolated and abandoned, going through life alone."
+    },
+    {
+        "id": "751380b763374b2e902f77a7dec576af",
+        "artist": "Green_Day",
+        "title": "Castaway",
+        "youtube": "9mg-jwIIliU",
+        "line": "castaway ",
+        "start_time": 127.8019375107296,
+        "end_time": 129.08949115879827,
+        "sentiment": "The lyrics are about feeling isolated and abandoned, as if being left alone on a deserted island."
+    },
+    {
+        "id": "751380b763374b2e902f77a7dec576af",
+        "artist": "Green_Day",
+        "title": "Castaway",
+        "youtube": "9mg-jwIIliU",
+        "line": "into sight and sound of no return and no looking back or down a conscientious objector to the war that's in my mind ",
+        "start_time": 159.21824652360513,
+        "end_time": 168.74614351931328,
+        "sentiment": "The lyrics are expressing a sense of determination and resilience in the face of internal conflict and the decision to abstain from participating in war."
+    },
+    {
+        "id": "751380b763374b2e902f77a7dec576af",
+        "artist": "Green_Day",
+        "title": "Castaway",
+        "youtube": "9mg-jwIIliU",
+        "line": "taking back what's mine i'm on a mission into destination unknown ",
+        "start_time": 171.57876154506437,
+        "end_time": 178.53155124463518,
+        "sentiment": "The lyrics are about reclaiming something that belongs to the speaker and embarking on a journey of self-discovery."
+    },
+    {
+        "id": "751380b763374b2e902f77a7dec576af",
+        "artist": "Green_Day",
+        "title": "Castaway",
+        "youtube": "9mg-jwIIliU",
+        "line": "into desolation road where i'm a castaway goin' at it alone ",
+        "start_time": 183.68176583690985,
+        "end_time": 191.6645984549356,
+        "sentiment": "The lyrics are about feeling isolated and lost while facing challenges alone on a desolate path."
+    },
+    {
+        "id": "751380b763374b2e902f77a7dec576af",
+        "artist": "Green_Day",
+        "title": "Castaway",
+        "youtube": "9mg-jwIIliU",
+        "line": "now i'm on my own castaway goin' at it alone castaway now i'm on my own ",
+        "start_time": 193.9821950214592,
+        "end_time": 203.76760274678108,
+        "sentiment": "The lyrics are about feeling abandoned and left to navigate through life on one's own."
+    },
+    {
+        "id": "751380b763374b2e902f77a7dec576af",
+        "artist": "Green_Day",
+        "title": "Castaway",
+        "youtube": "9mg-jwIIliU",
+        "line": "castaway castaway castaway ",
+        "start_time": 208.14528515021456,
+        "end_time": 217.6731821459227,
+        "sentiment": "The lyrics are about feeling isolated and abandoned."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "oh no here it comes again can't remember when ",
+        "start_time": 12.254,
+        "end_time": 18.650988582086157,
+        "sentiment": "The lyrics are conveying a sense of impending dread or anxiety as a familiar feeling returns."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "hold on, good things never last nothing's in the past ",
+        "start_time": 22.91564763681026,
+        "end_time": 30.98803799039517,
+        "sentiment": "The lyrics are emphasizing the importance of holding on to the present moment and not dwelling on the past."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "again and again again and again again oh ",
+        "start_time": 35.40500629707371,
+        "end_time": 44.69587066629408,
+        "sentiment": "The lyrics are describing a sense of repetition and frustration in a current situation."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "time again to save us from the jackals of the streets ride out protectors of the realm ",
+        "start_time": 51.245168500334664,
+        "end_time": 60.8406513734639,
+        "sentiment": "The lyrics are calling for protection and salvation from the dangers of the streets, with a sense of duty and bravery."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "il sent son parfum sur lacorniche ",
+        "start_time": 181.2464498852333,
+        "end_time": 188.5341315990818,
+        "sentiment": "The lyrics are expressing the sensation of smelling someone's perfume on the balcony."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "la chryslers'envole dans les fougeres et les nenuphars ",
+        "start_time": 196.16611323641922,
+        "end_time": 203.5685615914307,
+        "sentiment": "The lyrics are describing a Chrysler car soaring through ferns and water lilies."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "le paradis clair d'une chambre d'hopital ",
+        "start_time": 236.44920428462117,
+        "end_time": 243.7368859984697,
+        "sentiment": "The lyrics are exploring the tranquil paradise of a hospital room."
+    },
+    {
+        "id": "a312e4575d594bd7809440184c8b313a",
+        "artist": "Alain_Souchon",
+        "title": "La_Ballade_De_Jim",
+        "youtube": "lEUy2cGJwG0",
+        "line": "est un ange et ses yeuxsont verts comme elle luisourit ",
+        "start_time": 247.81110175975508,
+        "end_time": 255.0987834736036,
+        "sentiment": "The lyrics are describing a person as an angel with green eyes who smiles."
+    },
+    {
+        "id": "baa8e0c3b77746ef8ccedf64a7009433",
+        "artist": "Entwine",
+        "title": "Losing_The_Ground",
+        "youtube": "PbVYg0EVpek",
+        "line": "you used my heart so, you killed me again ",
+        "start_time": 69.59,
+        "end_time": 74.1053521974714,
+        "sentiment": "The lyrics are expressing feelings of betrayal and heartbreak caused by someone repeatedly hurting the speaker."
+    },
+    {
+        "id": "baa8e0c3b77746ef8ccedf64a7009433",
+        "artist": "Entwine",
+        "title": "Losing_The_Ground",
+        "youtube": "PbVYg0EVpek",
+        "line": "wicked as you are i think you could do it again ",
+        "start_time": 81.78145093317279,
+        "end_time": 88.78024683925346,
+        "sentiment": "The lyrics are expressing admiration and fear towards someone's capability to do something sinister again."
+    },
+    {
+        "id": "baa8e0c3b77746ef8ccedf64a7009433",
+        "artist": "Entwine",
+        "title": "Losing_The_Ground",
+        "youtube": "PbVYg0EVpek",
+        "line": "with your lies ",
+        "start_time": 93.0698314268513,
+        "end_time": 96.23057796508128,
+        "sentiment": "The lyrics are expressing disappointment and betrayal in someone who has been deceitful."
+    },
+    {
+        "id": "b0cf5a07152f49fda6896cd26733ec4b",
+        "artist": "Muse",
+        "title": "In_Your_World",
+        "youtube": "lqmTQnW01qc",
+        "line": "i'm hurting you again to lonely to pretend ",
+        "start_time": 33.467,
+        "end_time": 40.83321994107024,
+        "sentiment": "The lyrics are expressing the pain of causing hurt to someone out of loneliness and inability to falsely act happy."
+    },
+    {
+        "id": "b0cf5a07152f49fda6896cd26733ec4b",
+        "artist": "Muse",
+        "title": "In_Your_World",
+        "youtube": "lqmTQnW01qc",
+        "line": "i promise you to blow it all away ",
+        "start_time": 44.635139910654885,
+        "end_time": 54.139939834616484,
+        "sentiment": "The lyrics are about making a promise to eliminate all obstacles."
+    },
+    {
+        "id": "b0cf5a07152f49fda6896cd26733ec4b",
+        "artist": "Muse",
+        "title": "In_Your_World",
+        "youtube": "lqmTQnW01qc",
+        "line": "no one is crying alone in your world- ",
+        "start_time": 65.30807974527137,
+        "end_time": 72.91191968444065,
+        "sentiment": "The lyrics are expressing a sense of comfort and reassurance in a world where no one is left to suffer alone."
+    },
+    {
+        "id": "298f9fea64d045249b9a6fe07838124f",
+        "artist": "Three_Days_Grace",
+        "title": "Get_Out_Alive",
+        "youtube": "g8M8OHWX8ng",
+        "line": "no time for goodbye he said as he faded away ",
+        "start_time": 18.29,
+        "end_time": 26.239999999999995,
+        "sentiment": "The lyrics are reflective of a sudden and unexpected farewell, with a sense of finality and loss."
+    },
+    {
+        "id": "298f9fea64d045249b9a6fe07838124f",
+        "artist": "Three_Days_Grace",
+        "title": "Get_Out_Alive",
+        "youtube": "g8M8OHWX8ng",
+        "line": "they're bound to steal it away don't hide your mistakes ",
+        "start_time": 31.439999999999994,
+        "end_time": 37.38999999999999,
+        "sentiment": "The lyrics are cautioning against concealing one's errors as they are likely to be discovered and used against them."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "waves are breaking in a storm tornado sweep me off the floor ",
+        "start_time": 0.703,
+        "end_time": 7.7707324358435,
+        "sentiment": "The lyrics are describing the chaos and destruction of a turbulent emotional experience."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "you wanna know what that's like like thousand needles in my heart ",
+        "start_time": 11.935646192679847,
+        "end_time": 20.013054690786703,
+        "sentiment": "The lyrics are depicting intense emotional pain and heartache likened to a sensation of being pierced by numerous needles."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "and now my world just crashing down now that i can't have you around ",
+        "start_time": 23.673130416491375,
+        "end_time": 31.687434160706772,
+        "sentiment": "The lyrics are conveying the feeling of heartbreak and devastation caused by losing someone important."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "i'm bleeding i can see you now in shades of grey ",
+        "start_time": 38.124119057635674,
+        "end_time": 45.44427050904501,
+        "sentiment": "The lyrics are expressing feelings of pain and clarity in a bleak, colorless world."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "oh why you wanna break away i'm bleeding ",
+        "start_time": 48.22087968026925,
+        "end_time": 56.10897391670172,
+        "sentiment": "The lyrics are expressing feelings of heartbreak and pain as the singer questions why their partner wants to end the relationship."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "a memory fading running fast in hail and rain ",
+        "start_time": 61.40977324358435,
+        "end_time": 69.86581026503997,
+        "sentiment": "The lyrics are describing the fleeting nature of a fading memory amidst chaotic weather conditions."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "throw all reason out the door won't make a difference no more ",
+        "start_time": 73.84140976020194,
+        "end_time": 81.7295039966344,
+        "sentiment": "The lyrics are conveying a sense of abandoning logic and rationality due to the realization that it no longer holds any importance or relevance."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "sure made it painful from the start you're eased it up back in our day ",
+        "start_time": 85.95752250736221,
+        "end_time": 93.78251198990324,
+        "sentiment": "The lyrics are expressing the pain and struggle of a relationship that has since been eased with time."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "oh why you wanna break away i'm bleeding ",
+        "start_time": 98.45226377787127,
+        "end_time": 106.0879389987379,
+        "sentiment": "The lyrics are about someone feeling hurt and confused as to why their significant other wants to leave them."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "a memory fading oh why you wanna break away ",
+        "start_time": 111.38873832562052,
+        "end_time": 120.03408960875052,
+        "sentiment": "The lyrics are expressing a sense of loss and confusion as a memory begins to fade away."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "i can see you're now in shades of grey a memory fading ",
+        "start_time": 122.05344173327724,
+        "end_time": 130.1308502313841,
+        "sentiment": "The lyrics are about a person recognizing someone's memory fading and losing vibrancy."
+    },
+    {
+        "id": "2ca4bcc3104d4b4d854c045577458513",
+        "artist": "Lea_Michele",
+        "title": "Thousand_Needles",
+        "youtube": "ZTNKZnRSlxE",
+        "line": "a thousand needles in my heart ",
+        "start_time": 134.232659234329,
+        "end_time": 139.4072490534287,
+        "sentiment": "The lyrics are expressing intense emotional pain and heartache."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "sail across the sea of light circles and rings ",
+        "start_time": 63.277599404734815,
+        "end_time": 71.04537125441087,
+        "sentiment": "The lyrics are dreamy and evoke a sense of wonder and enchantment as the listener imagines sailing through a mystical sea of light."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "weaving a charm and a spell blessed by the night holy and bright ",
+        "start_time": 73.48231928568178,
+        "end_time": 83.07780215881102,
+        "sentiment": "The lyrics are describing the mystical and enchanting atmosphere of the night, evoking feelings of magic and spirituality."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "bloodied angels fast desending moving on a never bending light ",
+        "start_time": 87.34246121353513,
+        "end_time": 96.1763978268922,
+        "sentiment": "The lyrics are poetic and contemplative, depicting an intense and transformative experience of light and darkness."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "out of shadows, shining ever bright ",
+        "start_time": 100.59336613357074,
+        "end_time": 105.77188070002144,
+        "sentiment": "The lyrics are expressing a theme of emerging from darkness into a state of brightness and visibility."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "neon knights! all right! ",
+        "start_time": 111.255013770381,
+        "end_time": 118.71816711614818,
+        "sentiment": "The lyrics are energized and celebratory, exuding a sense of excitement and affirmation."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "time again to save us from the jackals of the streets ",
+        "start_time": 165.93403522202217,
+        "end_time": 173.39718856778936,
+        "sentiment": "The lyrics are expressing a plea for protection from dangerous individuals in society."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "captain's at the helm sail across the sea of light again and again ",
+        "start_time": 178.11877537837677,
+        "end_time": 188.01887675541485,
+        "sentiment": "The lyrics are about navigating through the challenges of life with determination and perseverance."
+    },
+    {
+        "id": "848d6d923e9341ec805761c69499596a",
+        "artist": "Black_Sabbath",
+        "title": "Neon_Knights",
+        "youtube": "Jn-5-9-V1k0",
+        "line": "and again neon knights! neon knights! ",
+        "start_time": 190.30351553473133,
+        "end_time": 198.985142896134,
+        "sentiment": "The lyrics are invoking a sense of urgency and excitement with a repeated chant to \"neon knights.\""
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "oh no ",
+        "start_time": 10.469,
+        "end_time": 17.590848739495797,
+        "sentiment": "The lyrics are expressing a sense of alarm or concern."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "that i know it's not pretty there ",
+        "start_time": 20.805134453781513,
+        "end_time": 28.431184873949576,
+        "sentiment": "The lyrics are expressing awareness of an unpleasant reality."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "if i show it to you now will it make you run away ",
+        "start_time": 32.969,
+        "end_time": 41.477403361344535,
+        "sentiment": "The lyrics are questioning whether revealing vulnerability will bring rejection."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "even if it hurts even if i try to push you out ",
+        "start_time": 45.00681512605042,
+        "end_time": 53.57824369747899,
+        "sentiment": "The lyrics are expressing the struggle of not being able to let go of someone, even when it hurts."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "and remind me who i really am please remind me who i really am ",
+        "start_time": 57.10765546218487,
+        "end_time": 66.93958823529411,
+        "sentiment": "The lyrics are a plea to be reminded of one's true identity and self-worth."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "do you love me? can you love mine? nobody's a picture perfect but we're worth it ",
+        "start_time": 70.40597478991596,
+        "end_time": 80.0488319327731,
+        "sentiment": "The lyrics are questioning the depth of someone's love and emphasizing imperfections but still believing in the value of the relationship."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "will you love me? even with my dark side? ",
+        "start_time": 82.38076470588234,
+        "end_time": 89.94378991596638,
+        "sentiment": "The lyrics are questioning whether someone will still love them despite their flaws and imperfections."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "from black dust it's hard to know what can become ",
+        "start_time": 93.97740336134453,
+        "end_time": 101.9816050420168,
+        "sentiment": "The lyrics are contemplative, describing the difficulty in foreseeing potential in a bleak situation."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "so don't give up on me please remind me who i really am ",
+        "start_time": 105.57404201680671,
+        "end_time": 115.09084873949578,
+        "sentiment": "The lyrics are a plea for someone to not lose hope in the speaker and to help them remember their true self."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "do you love me? can you love mine? nobody's a picture perfect but we're worth it ",
+        "start_time": 118.80933613445377,
+        "end_time": 128.45219327731093,
+        "sentiment": "The lyrics are questioning if someone can love and accept their flaws, emphasizing that nobody is perfect but still deserving of love."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "will you love me? even with my dark side? ",
+        "start_time": 130.78412605042016,
+        "end_time": 139.98580672268906,
+        "sentiment": "The lyrics are questioning if someone will accept and love the singer despite their flaws."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "don't run away just tell me that you will stay promise me you will ",
+        "start_time": 142.1286638655462,
+        "end_time": 151.58244537815125,
+        "sentiment": "The lyrics are pleading for reassurance and commitment in a relationship."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "don't run away don't run away just promise me you will stay ",
+        "start_time": 156.24631092436974,
+        "end_time": 165.7631176470588,
+        "sentiment": "The lyrics are a plea for someone to not leave and to stay."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "will you love me? uh ",
+        "start_time": 171.05723529411765,
+        "end_time": 180.13286554621848,
+        "sentiment": "The lyrics are questioning if the person being addressed will love the singer."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "do you love me? can you love mine? nobody's a picture perfect but we're worth it ",
+        "start_time": 183.34715126050418,
+        "end_time": 192.99000840336134,
+        "sentiment": "The lyrics are questioning the value and validity of love, emphasizing that imperfections do not diminish worthiness."
+    },
+    {
+        "id": "58ec921634164d11b13202c56d7451eb",
+        "artist": "Kelly_Clarkson",
+        "title": "Dark_Side",
+        "youtube": "RR-21ulMT2w",
+        "line": "will you love me? even with my dark side? ",
+        "start_time": 195.32194117647057,
+        "end_time": 202.31773949579832,
+        "sentiment": "The lyrics are questioning if someone will accept and love all aspects of the singer, including their flaws and imperfections."
     },
     {
         "id": "58ec921634164d11b13202c56d7451eb",
@@ -1807,7 +1807,7 @@
         "line": "don't run away don't run away promise ",
         "start_time": 206.7925294117647,
         "end_time": 216.1832857142857,
-        "sentiment": "The lyrics are conveying a message of encouraging someone to stay and not flee. The promise of not running away is being made to provide reassurance and comfort."
+        "sentiment": "The lyrics are about pleading for someone to not leave and to make a promise to stay."
     },
     {
         "id": "5698f487a7cc46fbb9f2cc5612567975",
@@ -1817,7 +1817,7 @@
         "line": "ah ah ah ah ah ah ah ",
         "start_time": 16.671,
         "end_time": 22.730602649006624,
-        "sentiment": "The lyrics are filled with emotive vocalizations, conveying a sense of raw emotion and intensity. The repetition of \"ah\" creates a powerful and haunting atmosphere in the song."
+        "sentiment": "The lyrics are filled with a sense of longing and yearning."
     },
     {
         "id": "401559f30dc04330a97bef1cedf474fb",
@@ -1827,7 +1827,7 @@
         "line": "help, i have done it again ",
         "start_time": 16.188,
         "end_time": 21.4297006406523,
-        "sentiment": "The lyrics are expressing a sense of desperation and regret. The speaker acknowledges a mistake or wrongdoing that they have repeated, feeling helpless and trapped in a cycle of self-destructive behavior."
+        "sentiment": "The lyrics are expressing a sense of remorse and frustration with repeating a mistake."
     },
     {
         "id": "401559f30dc04330a97bef1cedf474fb",
@@ -1837,7 +1837,7 @@
         "line": "hurt myself again today ",
         "start_time": 31.9755031200599,
         "end_time": 38.15322173225725,
-        "sentiment": "The lyrics are expressing a sense of self-destructive behavior and potentially recurring patterns of harm. This line suggests a cycle of pain and suffering that the singer is experiencing."
+        "sentiment": "The lyrics are expressing a sense of recurring pain and self-inflicted harm."
     },
     {
         "id": "401559f30dc04330a97bef1cedf474fb",
@@ -1847,7 +1847,7 @@
         "line": "there's noone else to blame be my friend ",
         "start_time": 43.894131957733585,
         "end_time": 51.07026973957899,
-        "sentiment": "The lyrics are expressing a sense of accountability and loneliness, asking for companionship in a time of need. The narrator is looking for someone to support and stand by them through challenges and difficulties."
+        "sentiment": "The lyrics are about taking responsibility for one's actions and asking for friendship in times of trouble."
     },
     {
         "id": "401559f30dc04330a97bef1cedf474fb",
@@ -1857,7 +1857,7 @@
         "line": "unfold me, i am small ",
         "start_time": 59.24482669107246,
         "end_time": 69.22901838755303,
-        "sentiment": "The lyrics are introspective and vulnerable, expressing a desire for emotional connection and comfort. The speaker acknowledges their own fragility and openness to being understood."
+        "sentiment": "The lyrics are a reflection on vulnerability and the desire for comfort and protection."
     },
     {
         "id": "401559f30dc04330a97bef1cedf474fb",
@@ -1867,7 +1867,7 @@
         "line": "and breathe me ",
         "start_time": 77.65318013145851,
         "end_time": 82.5828747815958,
-        "sentiment": "The lyrics are emotive and vulnerable, expressing a desire for closeness and intimacy. The repetition of the phrase \"breathe me\" conveys a sense of yearning for connection and understanding."
+        "sentiment": "The lyrics are expressing a plea for comfort and support."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1877,7 +1877,7 @@
         "line": "hetkeksi hengahdan joku valot sammuttaa kaupunkimme nukkuu ",
         "start_time": 1.1653399999999998,
         "end_time": 11.039492952565345,
-        "sentiment": "The lyrics are reflective of a moment of tranquility and stillness as the city sleeps, evoking a sense of peacefulness and calm. The imagery of lights being turned off symbolizes a temporary pause and a break from the hustle and bustle of urban life."
+        "sentiment": "The lyrics are about taking a moment to pause as someone turns off the lights and our city sleeps."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1887,7 +1887,7 @@
         "line": "eika vierellain ketaan kaikki muut nukkuu ",
         "start_time": 16.17018027105518,
         "end_time": 23.478989564375606,
-        "sentiment": "The lyrics are expressing a feeling of solitude and isolation, as the singer is awake while everyone else is asleep. This sense of being alone and disconnected is emphasized by the repetition of the word \"kaikki\" (everyone)."
+        "sentiment": "The lyrics are about feeling alone while everyone else sleeps."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1897,7 +1897,7 @@
         "line": "jos joku nakisi sen ja loytais mun luo kaikki mita ma annoin ",
         "start_time": 30.061758199419167,
         "end_time": 39.20987049370765,
-        "sentiment": "The lyrics are reflective and contemplative, expressing the feeling of longing and vulnerability. They convey a sense of yearning for someone to see and appreciate all the sacrifices and love that was given."
+        "sentiment": "The lyrics are expressing regret and longing for someone to find and return everything that was given away."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1907,7 +1907,7 @@
         "line": "enka loyda sua enaa kun minun on kylma ",
         "start_time": 41.00077078412391,
         "end_time": 47.196317734753144,
-        "sentiment": "The lyrics are expressing feelings of loneliness and sadness as the singer mentions the coldness surrounding them. The words convey a sense of longing and melancholy in the midst of emptiness."
+        "sentiment": "The lyrics are expressing feelings of longing and loneliness due to the coldness of a relationship."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1917,7 +1917,7 @@
         "line": "jaanyt on sulle miten loydan viela tieni silloiseen nyt kun minun on kylma ",
         "start_time": 51.50415897386254,
         "end_time": 59.73261976766699,
-        "sentiment": "The lyrics are expressing feelings of confusion and longing, as the speaker searches for a way back to a past they once knew. The coldness mentioned symbolizes a sense of isolation and discomfort in the present moment."
+        "sentiment": "The lyrics are reflective and introspective, expressing a sense of longing and loss as the speaker struggles to find their way back to a past that now feels cold."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1927,7 +1927,7 @@
         "line": "sita kuvaa sinusta kuinka paljon voit ottaa ",
         "start_time": 72.22051909002904,
         "end_time": 79.14210669893514,
-        "sentiment": "The lyrics are talking about someone who wears you out, showing how much you can handle. It conveys the feeling of being overwhelmed by someone's demands."
+        "sentiment": "The lyrics are about recognizing someone's boundaries and limits."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1937,7 +1937,7 @@
         "line": "ja pystyn viela nousemaan miten paljon sa saat ",
         "start_time": 84.22439130687319,
         "end_time": 92.74326836398838,
-        "sentiment": "The lyrics are about overcoming hardships and rising up despite the challenges faced, expressing determination and resilience in the face of adversity. The speaker reflects on their ability to keep going and achieve success, regardless of the obstacles they may encounter."
+        "sentiment": "The lyrics are about struggling to rise up despite someone's influence."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1947,7 +1947,7 @@
         "line": "miten kauan tassa jo maannut oon kaikki mita ma annoin ",
         "start_time": 97.72874755082285,
         "end_time": 107.31248424007744,
-        "sentiment": "The lyrics are reflecting on how long the speaker has been waiting, and questioning if everything they have given has been worth it. It conveys a sense of impatience and doubt about the choices made."
+        "sentiment": "The lyrics are reflecting on the duration of time spent giving everything away."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1957,7 +1957,7 @@
         "line": "enka loyda sua enaa kun minun on kylma ",
         "start_time": 109.10338453049371,
         "end_time": 115.5409450338819,
-        "sentiment": "The lyrics are expressing feelings of loneliness and coldness in the presence of someone else. The speaker longs for understanding and warmth from the other person."
+        "sentiment": "The lyrics are expressing feelings of loneliness and coldness."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1967,7 +1967,7 @@
         "line": "jaanyt on sulle miten loydan viela tieni silloiseen nyt kun minun on kylma ",
         "start_time": 119.65517543078413,
         "end_time": 127.83523351403679,
-        "sentiment": "The lyrics are expressing feelings of confusion and longing, as the speaker searches for a way back to a past place or time that seems distant and cold to them now. The phrase reflects a sense of melancholy and disorientation in the face of changing circumstances."
+        "sentiment": "The lyrics are expressing feelings of being lost and cold, seeking a way back to a past state of being."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1977,7 +1977,7 @@
         "line": "jaanyt on sulle enka loyda sua enaa kun minun on kylma ",
         "start_time": 153.7790863697967,
         "end_time": 162.49157426911904,
-        "sentiment": "The lyrics are expressing feelings of rejection and detachment, with the narrator unable to find warmth in the relationship anymore. The narrator conveys a sense of resigned acceptance that they can no longer connect with the other person."
+        "sentiment": "The lyrics are expressing feelings of rejection and emotional detachment."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1987,7 +1987,7 @@
         "line": "jaanyt on sulle miten loydan viela tieni silloiseen nyt kun minun on kylma ",
         "start_time": 166.12177756050338,
         "end_time": 174.1082248015489,
-        "sentiment": "The lyrics are expressing a sense of longing and confusion as the speaker tries to find their way back to a past love while feeling cold and distant in the present. The lyrics evoke feelings of nostalgia and isolation, reflecting on the struggle to navigate complex emotions."
+        "sentiment": "The lyrics are reflective of feelings of loss and longing for a past time, expressing uncertainty and a sense of coldness."
     },
     {
         "id": "9d653d7736e842b3842dfa8433bc0cee",
@@ -1997,6 +1997,6 @@
         "line": "minun on kylma ",
         "start_time": 180.3037717521781,
         "end_time": 186.49931870280733,
-        "sentiment": "The lyrics are expressing feelings of loneliness and isolation as the singer describes feeling cold. It evokes a sense of emotional detachment and vulnerability."
+        "sentiment": "The lyrics are a reflection of a feeling of coldness or detachment."
     }
 ]

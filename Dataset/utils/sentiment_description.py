@@ -80,7 +80,7 @@ def spin_thread(segments, results):
     results.put(output)
 
 
-def threaded_create_segment_descriptions(path, num_threads=16, debug=False):
+def threaded_create_segment_descriptions(path, file_name, num_threads=16, debug=False):
     """
     Create segment descriptions using multiple threads.
 
@@ -89,7 +89,7 @@ def threaded_create_segment_descriptions(path, num_threads=16, debug=False):
         num_threads (int, optional): The number of threads to use for processing. Defaults to 16.
         debug (bool, optional): Whether to run in debug mode. If True, only a subset of segments will be processed. Defaults to False.
     """
-    full_path = path + '/segments.json'
+    full_path = path + file_name
 
     with open(full_path, 'r') as f:
         segments = json.load(f)
