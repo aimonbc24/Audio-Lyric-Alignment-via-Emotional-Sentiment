@@ -7,14 +7,13 @@ Dataset/data/*
 
 # keep Dataset/data/mp4 directory and contents
 !Dataset/data/mp4
-!Dataset/data/mp4/*
+!Dataset/data/mp4/*.mp4
 
 # keep Dataset/data/broken_links.txt
 !Dataset/data/broken_links.txt
 
-# keep Dataset/data/segments.json
-!Dataset/data/segments.json
-!Dataset/data/segments_with_descriptions.json
+# keep segments files
+!Dataset/data/*.json
 
 # ignore all jupyter notebooks outside of the scripts directory
 **.ipynb
