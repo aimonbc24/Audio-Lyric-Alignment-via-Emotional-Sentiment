@@ -24,3 +24,8 @@ Dataset/data/*
 
 # ignore pycache anywhere in the repo
 **/*.pyc
+Dataset/__pycache__/DALIDataset.cpython-312.pyc
+Dataset/__pycache__/DALIDataset.cpython-312.pyc
+Dataset/utils/__pycache__/audio_utils.cpython-312.pyc
+Dataset/__pycache__/DALIDataset.cpython-312.pyc
+Dataset/utils/__pycache__/audio_utils.cpython-312.pyc

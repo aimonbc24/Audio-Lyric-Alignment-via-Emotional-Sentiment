@@ -1,0 +1,1 @@
+AUDIO_LENGTH = 10 # duration of the spectrogram in seconds
