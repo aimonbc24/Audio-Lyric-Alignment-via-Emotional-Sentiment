@@ -19,7 +19,7 @@ Dataset/data/segments_with_descriptions.jsonl
 
 # ignore all jupyter notebooks outside of the scripts directory
 **.ipynb
-!scripts/*.ipynb
+!notebooks/*.ipynb
 
 .conda
 
