@@ -2,11 +2,27 @@ import torch
 from torch.utils.data import DataLoader
 from torch import optim
 from transformers import ClapProcessor, ClapModel
-from Dataset.DALIDataset import DALIDataset
 from tqdm import tqdm
 import matplotlib.pyplot as plt
-import os
 import json
+import sys
+import os
+
+# Add the project root to the python path
+current_script_path = os.path.abspath(__file__)
+current_dir = os.path.dirname(current_script_path)
+project_root_dir = os.path.dirname(current_dir)
+
+while not os.path.exists(os.path.join(current_dir, '.gitignore')):
+    current_dir = os.path.dirname(current_dir)
+    if current_dir == os.path.sep:
+        raise Exception("Project root not found.")
+project_root_dir = current_dir
+sys.path.append(project_root_dir)
+
+# Import the DALIDataset
+from Dataset.DALIDataset import DALIDataset
+
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 device = "cuda" if torch.cuda.is_available() else "cpu"
