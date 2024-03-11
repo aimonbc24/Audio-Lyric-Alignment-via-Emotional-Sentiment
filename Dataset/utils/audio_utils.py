@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 def mp4_to_wav(input_file, output_file):
     with open(os.devnull, 'w') as FNULL:
-        return subprocess.call(['ffmpeg', '-i', input_file, output_file], stdout=FNULL, stderr=subprocess.STDOUT)
+        return subprocess.call(['ffmpeg', '-i', input_file, '-ac', '1', output_file], stdout=FNULL, stderr=subprocess.STDOUT)
 
 def load_audio_segment(filepath, start_sec, end_sec):
     wav_file = filepath.replace(".mp4", ".wav")
@@ -14,18 +14,24 @@ def load_audio_segment(filepath, start_sec, end_sec):
     mp4_to_wav(filepath, wav_file)
 
     # Load the full wav file
-    waveform, sample_rate = torchaudio.load(wav_file)
+    # try catch block to handle corrupted files
+    try:
+        waveform, sample_rate = torchaudio.load(wav_file)
+    except:
+        if os.path.exists(wav_file):
+            os.remove(wav_file)
+        return None
 
     # remove wav
     os.remove(wav_file)
-    
+
     # Calculate start and end sample indices
     start_sample = int(start_sec * sample_rate)
     end_sample = int(end_sec * sample_rate)
-    
+
     # Slice the waveform to get the desired segment
     segment = waveform[:, start_sample:end_sample]
-    
+
     return segment, sample_rate
 
 def visualize_spectrogram(spectrogram):
