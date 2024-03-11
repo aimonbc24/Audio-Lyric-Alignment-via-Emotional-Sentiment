@@ -4,6 +4,7 @@ venv
 
 # ignore all subfolders of Dataset/data
 Dataset/data/*
+Dataset/data/segments_with_descriptions.jsonl
 
 # keep Dataset/data/mp4 directory and contents
 !Dataset/data/mp4
