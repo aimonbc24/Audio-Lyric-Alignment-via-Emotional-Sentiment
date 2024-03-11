@@ -21,6 +21,8 @@ Dataset/data/segments_with_descriptions.jsonl
 **.ipynb
 !notebooks/*.ipynb
 
+scripts/monitor_git.py
+
 .conda
 
 # ignore pycache anywhere in the repo

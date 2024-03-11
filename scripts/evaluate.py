@@ -3,7 +3,11 @@
 import torch
 from torch.utils.data import DataLoader
 from transformers import ClapProcessor, ClapModel
+
+import sys
+sys.path.append("..")
 from Dataset.DALIDataset import DALIDataset
+
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 import os
@@ -100,6 +104,11 @@ if __name__ == "__main__":
     model_path = args.model_path
     results_path = args.results_dir
 
+    # print run configuration
+    print(f"Model Path: {model_path}")
+    print(f"Batch Size: {batch_size}")
+    print(f"Results Directory: {results_path}")
+
     # Load the model
     model = load_model(model_path)
 
@@ -114,7 +123,7 @@ if __name__ == "__main__":
     test_loader = DataLoader(test_set, batch_size=batch_size, shuffle=False, collate_fn=collate_fn)
 
     # Evaluate the model
-    top_k_accs, kl_divs = cross_modal_retrieval(test_loader)
+    top_k_accs, kl_divs = cross_modal_retrieval(model, processor, test_loader)
 
     # plot the top-k accuracy
     plt.plot(list(top_k_accs.keys()), list(top_k_accs.values()))
