@@ -15,6 +15,7 @@ Dataset/data/segments_with_descriptions.jsonl
 
 # keep segments files
 !Dataset/data/*.json
+!Dataset/data/*.jsonl
 
 # ignore all jupyter notebooks outside of the scripts directory
 **.ipynb
