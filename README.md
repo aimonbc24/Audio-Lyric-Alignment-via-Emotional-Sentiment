@@ -6,11 +6,13 @@ In this research, we investigate the feasibility of using musical sentiment as a
 
 ## Root folder contains:
 `scripts`: Contains scripts for fine-tuning  (imported or called by scripts outside this folder). Contains all the key implementations
+
 `Dataset`: Folder for the project's data contents. This includes...
 - `DALIDataset.py`: the project's audio-lyric dataset implementation
 - `utils`: a folder containing utility functions for audio processing
 - `mp4`: a folder of the raw MP4 audio files scraped from YouTube. The name of each audio files is the song's DALI ID. (In the future, we will create an easy-to-run data downloader script and remove the raw audio files to reduce storage overhead)
 - `*.json`: JSON files containing metadata for each lyric-description text segment used for fine-tuning CLAP.
+
 `notebooks`: Contains jupyter notebooks of prototyping code, included for reproducibility.
 
 ## Google Drive
