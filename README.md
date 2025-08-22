@@ -16,7 +16,9 @@ In this research, we investigate the feasibility of using emotional sentiment as
 `notebooks`: Contains jupyter notebooks of prototyping code, included for reproducibility.
 
 ## Results:
-[Report](./report.pdf)
+Please see out [project report](./report.pdf) for full details on experimental setup and findings.
+
+In addition, we have created a mini poster for brief viewing.
 
 [![Poster Preview](./poster.png)](./poster.pdf)
 
