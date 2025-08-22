@@ -15,12 +15,6 @@ In this research, we investigate the feasibility of using emotional sentiment as
 
 `notebooks`: Contains jupyter notebooks of prototyping code, included for reproducibility.
 
-## Google Drive
-- [Click](https://drive.google.com/drive/u/4/folders/1gaKDPwmVh8GvBVmySpjS11Jrf1zDOZIx) to view.
-
-## Note:
-- The code for the project is currently under development and will be released soon.
-
 ## Authors:
 - Aimon Benfield-Chand
 - Donovan Clay
