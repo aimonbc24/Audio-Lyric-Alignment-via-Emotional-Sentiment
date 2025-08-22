@@ -15,9 +15,10 @@ In this research, we investigate the feasibility of using emotional sentiment as
 
 `notebooks`: Contains jupyter notebooks of prototyping code, included for reproducibility.
 
-[![Poster Preview](./audio-lyric-sentiment-alignment-poster-1.png)](./audio-lyric-sentiment-alignment-poster.pdf)
+## Results:
+[Report](./report.pdf)
 
-[Report](./audio-lyric-sentiment-alignment-report.pdf)
+[![Poster Preview](./poster.png)](./poster.pdf)
 
 ## Authors:
 - Aimon Benfield-Chand
