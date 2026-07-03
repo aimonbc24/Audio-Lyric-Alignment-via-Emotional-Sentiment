@@ -1,32 +1,20 @@
-venv
+# Env / secrets
 .env
+.conda/
+venv/
 
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
 
-# ignore all subfolders of Dataset/data
-Dataset/data/*
-Dataset/data/segments_with_descriptions.jsonl
+# Raw audio — download locally via scripts/download_data.py; never commit.
+# (The mp4s currently in history will be removed in a separate history scrub.)
+Dataset/data/mp4/
+*.wav
 
-# keep Dataset/data/mp4 directory and contents
-!Dataset/data/mp4
-!Dataset/data/mp4/*.mp4
-
-# keep Dataset/data/broken_links.txt
-!Dataset/data/broken_links.txt
-
-# keep segments files
-!Dataset/data/*.json
-!Dataset/data/*.jsonl
-
-# ignore all jupyter notebooks outside of the scripts directory
-**.ipynb
-!notebooks/*.ipynb
-
-.conda
-
-# ignore pycache anywhere in the repo
-**/*.pyc
-Dataset/__pycache__/DALIDataset.cpython-312.pyc
-Dataset/__pycache__/DALIDataset.cpython-312.pyc
-Dataset/utils/__pycache__/audio_utils.cpython-312.pyc
-Dataset/__pycache__/DALIDataset.cpython-312.pyc
-Dataset/utils/__pycache__/audio_utils.cpython-312.pyc
+# Large intermediate request/response dumps
+Dataset/data/parallel_*.jsonl
