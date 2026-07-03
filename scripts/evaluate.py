@@ -13,17 +13,8 @@ import argparse
 import os
 import sys
 
-# Add the project root to the python path
-current_script_path = os.path.abspath(__file__)
-current_dir = os.path.dirname(current_script_path)
-project_root_dir = os.path.dirname(current_dir)
-
-while not os.path.exists(os.path.join(current_dir, '.gitignore')):
-    current_dir = os.path.dirname(current_dir)
-    if current_dir == os.path.sep:
-        raise Exception("Project root not found.")
-project_root_dir = current_dir
-sys.path.append(project_root_dir)
+# Make the repo root importable (scripts/ lives one level below it).
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # Import the DALIDataset
 from Dataset.DALIDataset import DALIDataset
