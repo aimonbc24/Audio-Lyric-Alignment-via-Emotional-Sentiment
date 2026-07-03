@@ -1,0 +1,16 @@
+# Python 3.10. Training/eval needs a GPU. ffmpeg must be on PATH (used to slice
+# audio segments in Dataset/utils/audio_utils.py).
+
+# Model
+torch
+torchaudio
+transformers
+numpy
+matplotlib
+tqdm
+
+# Data preparation (scripts/download_data.py + notebooks)
+yt-dlp
+openai
+tiktoken
+aiohttp

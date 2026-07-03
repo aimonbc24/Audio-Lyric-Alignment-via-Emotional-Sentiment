@@ -1,67 +1,54 @@
-# Implementation of DALI dataset for PyTorch
+# Implementation of the DALI dataset for PyTorch.
+import json
+import os
+from typing import Optional, Tuple
+
 import torch
 from torch.utils.data import Dataset
-from torchaudio.transforms import MelSpectrogram
-import torchaudio
-
-# import DALI
-# from pytube import YouTube
-import json
-from typing import Tuple
-import os
 
 from .utils.audio_utils import load_audio_segment
-from .utils.constants import AUDIO_LENGTH
+
+# Default source has BOTH the raw lyric ("line") and the LLM-generated
+# emotional-sentiment description ("sentiment") for each ~10s segment, so the
+# sentiment-vs-lyric ablation runs on the SAME segments — just flip use_sentiment.
+DEFAULT_SEGMENTS = "segments_with_descriptions.json"
+
 
 class DALIDataset(Dataset):
-    """DALI dataset for Audio-Lyric Song Alignment.
-    
-    Items are given as Tuples:
-        (line, sentiment_description, spectrogram)
-    
-    line:
-        A Tuple of length batch_size containing the lyrics of each song segment.
-    sentiment_description:
-        A Tuple of length batch_size containing the sentiment of each song segment.
-    spectrogram:
-        A Tensor of shape (batch_size, n_mels, time) containing the MelSpectrogram of each song segment."""
+    """DALI dataset for audio-lyric alignment.
 
-    def __init__(self, use_sentiment: bool = False):
-        # get the absolute path of the current working directory
+    Each item is a ``(text, (waveform, sample_rate))`` pair, where ``text`` is
+    either the segment's raw lyric or its emotional-sentiment description,
+    selected by ``use_sentiment``. Returning a single text field (rather than
+    both) keeps one collate path for both ablation arms.
+    """
+
+    def __init__(self, use_sentiment: bool = False,
+                 segments_file: Optional[str] = None):
         self.absolute_path = os.path.dirname(os.path.abspath(__file__))
         self.mp4_folder = os.path.join(self.absolute_path, "data", "mp4")
         self.use_sentiment = use_sentiment
-        self.spectrogram_transform = MelSpectrogram()
+        self.text_key = "sentiment" if use_sentiment else "line"
 
-        # read in the segments.json file
-        with open(os.path.join(self.absolute_path, "data", "segments_filtered.json"), "r") as f:
-            self.items = json.load(f) # stored as a list of dictionaries
+        segments_file = segments_file or DEFAULT_SEGMENTS
+        with open(os.path.join(self.absolute_path, "data", segments_file)) as f:
+            self.items = json.load(f)  # list of dicts
 
-    def __len__(self):
+        if use_sentiment and self.items and "sentiment" not in self.items[0]:
+            raise KeyError(
+                f"{segments_file} has no 'sentiment' field; use "
+                "segments_with_descriptions.json for the sentiment arm."
+            )
+
+    def __len__(self) -> int:
         return len(self.items)
 
-    def __getitem__(self, idx) -> Tuple[str, str, torch.Tensor]:
-        item_dict = self.items[idx]
-        # 'id', 'artist', 'title', 'youtube', 'line', 'start_time', 'end_time'
-
-        mp4_file = os.path.join(self.mp4_folder, f"{item_dict['id']}.mp4")
-
-        wav_file = load_audio_segment(mp4_file, item_dict['start_time'], item_dict['end_time'])
-        # go to the next item if none
-        if wav_file is None:
-            return self.__getitem__(idx + 1)
-
-        if self.use_sentiment:
-            output = (
-                item_dict['line'],
-                item_dict['sentiment'],
-                wav_file,
-            )
-        else:
-            output = (
-                item_dict['line'],
-                wav_file,
-            )
-
-        return output
-
+    def __getitem__(self, idx) -> Tuple[str, Tuple[torch.Tensor, int]]:
+        item = self.items[idx]
+        # keys: id, artist, title, youtube, line, sentiment, start_time, end_time
+        mp4_file = os.path.join(self.mp4_folder, f"{item['id']}.mp4")
+        audio = load_audio_segment(mp4_file, item["start_time"], item["end_time"])
+        if audio is None:
+            # Skip unreadable audio; wrap with modulo to avoid an IndexError at the tail.
+            return self.__getitem__((idx + 1) % len(self.items))
+        return item[self.text_key], audio

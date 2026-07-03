@@ -13,17 +13,8 @@ import argparse
 import os
 import sys
 
-# Add the project root to the python path
-current_script_path = os.path.abspath(__file__)
-current_dir = os.path.dirname(current_script_path)
-project_root_dir = os.path.dirname(current_dir)
-
-while not os.path.exists(os.path.join(current_dir, '.gitignore')):
-    current_dir = os.path.dirname(current_dir)
-    if current_dir == os.path.sep:
-        raise Exception("Project root not found.")
-project_root_dir = current_dir
-sys.path.append(project_root_dir)
+# Make the repo root importable (scripts/ lives one level below it).
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # Import the DALIDataset
 from Dataset.DALIDataset import DALIDataset
@@ -91,18 +82,21 @@ def cross_modal_retrieval(model, processor, test_loader):
             top_k_acc = (top_k == torch.arange(batch_size).unsqueeze(-1)).any(dim=-1).sum().item() / batch_size
             top_k_accs[k].append(top_k_acc)
 
-        # get the classification of the text across the other text
-        text_embeds = outputs.text_embeds
-        text_distribution = F.log_softmax(F.cosine_similarity(text_embeds, text_embeds, dim=-1), dim=-1)
+        # text-to-text similarity: each lyric/description vs. every other one.
+        # (Previously this compared each vector with itself, which is always 1.0
+        # and makes the KL term meaningless.)
+        text_embeds = F.normalize(outputs.text_embeds, dim=-1)
+        text_distribution = F.log_softmax(text_embeds @ text_embeds.t(), dim=-1)
 
-        # calculate the kl divergence of the audio distribution from the text distribution
+        # KL of the audio->text distribution from the text->text distribution
         kl_div = F.kl_div(audio_distribution, text_distribution, reduction="batchmean", log_target=True)
-        kl_divs.append(kl_div)
+        kl_divs.append(kl_div.item())
 
         # set the progress bar description
         loader.set_description(f"KL Div: {np.mean(kl_divs):.2f}, Top 1 Acc: {np.mean(top_k_accs[1]):.2f}")
 
-    return {k: np.mean(accs) for k, accs in top_k_accs.items()}, np.mean(kl_divs)
+    return ({k: float(np.mean(accs)) for k, accs in top_k_accs.items()},
+            float(np.mean(kl_divs)))
 
 
 if __name__ == "__main__":
@@ -111,6 +105,7 @@ if __name__ == "__main__":
     parser.add_argument("--model_path", type=str, default="laion/larger_clap_general", help="The path to the model to evaluate. For fine-tuned models, this should be a local path. Otherwise, the pretrained CLAP model is loaded.")
     parser.add_argument("--batch_size", type=int, default=8, help="The batch size for the data loader")
     parser.add_argument("--results_dir", type=str, default="./results/cross-modal-results/", help=r"The folder to save the results to. The results will be saved as a JSON file with the top-k accuracies and KL divergence. The file name is given as {model_path}-{batch_size}.json.")
+    parser.add_argument("--use_sentiment", action="store_true", help="Evaluate the sentiment-description arm instead of the raw lyric.")
 
     args = parser.parse_args()
     batch_size = args.batch_size
@@ -130,10 +125,12 @@ if __name__ == "__main__":
 
     # Load the dataset
 
-    dataset = DALIDataset(use_sentiment=False)
+    dataset = DALIDataset(use_sentiment=args.use_sentiment)
     dataset_len = len(dataset) #[0.01, 0.99]
     _, _, test_set = torch.utils.data.random_split(dataset, [8, 16, dataset_len - 24], generator=torch.Generator().manual_seed(SEED))
-    test_loader = DataLoader(test_set, batch_size=batch_size, shuffle=False, collate_fn=collate_fn)
+    # drop_last keeps every batch full so the diagonal ground-truth (arange over
+    # batch_size) and the top-k logic stay valid on the final batch.
+    test_loader = DataLoader(test_set, batch_size=batch_size, shuffle=False, collate_fn=collate_fn, drop_last=True)
 
     # Evaluate the model
     top_k_accs, kl_divs = cross_modal_retrieval(model, processor, test_loader)
