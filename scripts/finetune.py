@@ -23,6 +23,14 @@ sys.path.append(project_root_dir)
 # Import the DALIDataset
 from Dataset.DALIDataset import DALIDataset
 
+import argparse
+
+parser = argparse.ArgumentParser(description="Fine-tune CLAP on audio-lyric (or audio-sentiment) pairs.")
+parser.add_argument("--use_sentiment", action="store_true",
+                    help="Align audio to the LLM sentiment description instead of the raw lyric.")
+parser.add_argument("--batch_size", type=int, default=8, help="Batch size (the paper used 768).")
+parser.add_argument("--num_epochs", type=int, default=2, help="Training epochs (the paper used 45).")
+args = parser.parse_args()
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -62,14 +70,14 @@ def validate(test_dl):
     return test_total_loss
 
 # Load the dataset
-batch_size = 8 # paper had 768
-dataset = DALIDataset(use_sentiment=False)
+batch_size = args.batch_size # paper had 768
+dataset = DALIDataset(use_sentiment=args.use_sentiment)
 dataset_len = len(dataset) #[0.01, 0.99]
 train_set, val_set, _ = torch.utils.data.random_split(dataset, [8, 16, dataset_len - 24], generator=torch.Generator().manual_seed(SEED))
 train_dataloader = DataLoader(train_set, batch_size=batch_size, shuffle=True, collate_fn=collate_fn)
 val_dataloader = DataLoader(val_set, batch_size=batch_size, shuffle=False, collate_fn=collate_fn)
 
-num_epochs = 2 # paper had 45
+num_epochs = args.num_epochs # paper had 45
 optimizer = torch.optim.Adam(model.parameters(), lr=1e-5, betas=(0.99, 0.9), eps=1e-9)
 scheduler = optim.lr_scheduler.CosineAnnealingLR(optimizer, num_epochs * len(train_dataloader))
 
@@ -77,7 +85,8 @@ pbar = tqdm(train_dataloader)
 
 num_training_steps = num_epochs * len(train_dataloader)
 
-torch.cuda.empty_cache()
+if torch.cuda.is_available():
+    torch.cuda.empty_cache()
 print(f"Using {device} for training")
 best_val_loss = 9999999
 history = {'train_loss':[],'val_loss':[]}
